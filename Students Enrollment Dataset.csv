@@ -1,0 +1,481 @@
+﻿ID,Student_Name,Gender,Age,Occupition,Course,Level 1,Level 2,Level 3,Region ,City,State,Country,Counseller_Name,Addmission _Date,Visit_Date ,Quarter,Lead_Source,Fee Discount%,Course Fee
+1001,Harbinder Kaur,Female,21,Student,Business Essentials,null,Elite,null,North,Batala,Punjab,India,Sukhjeet Kaur,2025-04-01,2025-03-28,Quarter 1,Email Marketing,50%,16500
+1002,Sunil Gupta,Male,34,Working Professional,MechTech Design,null,null,Beginners,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2025-04-03,2025-03-30,Quarter 1,Referral,No Discount,9000
+1003,Ekamjot Singh,Male,29,Working Professional,Civil,null,Elite,null,North,Amritsar,Punjab,India,Sukhjeet Kaur,2025-04-04,2025-03-31,Quarter 1,Referral,No Discount,19000
+1004,Vanshika Aggarwal,Female,25,Working Professional,Digital Content Creation,null,Elite,null,West,Fazilka,Punjab,India,Sukhjeet Kaur,2025-04-04,2025-03-31,Quarter 1,Organic Search ,No Discount,17500
+1005,Gajjan Singh,Male,22,Student,Digital Literacy,null,null,Beginners,East,Hoshiarpur,Punjab,India,Amandeep Kaur,2025-04-05,2025-04-01,Quarter 1,Social Media,50%,5000
+1006,Barkha Khanna,Female,35,Working Professional,Digital Literacy,null,null,Beginners,West,Firozpur,Punjab,India,Amandeep Kaur,2025-04-06,2025-04-02,Quarter 1,Referral,No Discount,5000
+1007,Priya Malhotra,Female,21,Student,Civil,null,Elite,null,North,Amritsar,Punjab,India,Amandeep Kaur,2025-04-08,2025-04-04,Quarter 1,Referral,50%,19000
+1008,Chattar Singh,Male,40,Working Professional,Civil,Advance,null,null,East,Rupnagar,Punjab,India,Amandeep Kaur,2025-04-09,2025-04-05,Quarter 1,Direct Inquiry,No Discount,14000
+1009,Hargun Kaur,Female,33,Working Professional,Business Essentials,null,Elite,null,South,Mansa,Punjab,India,Amandeep Kaur,2025-04-10,2025-04-06,Quarter 1,Direct Inquiry,No Discount,16500
+1010,Raghav Verma,Male,37,Working Professional,Civil,null,Elite,null,South,Bathinda,Punjab,India,Amandeep Kaur,2025-04-10,2025-04-06,Quarter 1,Organic Search ,No Discount,19000
+1011,Amarjeet Kaur,Female,25,Working Professional,Coding/Programming,null,Elite,null,East,Mohali,Punjab,India,Amandeep Kaur,2025-04-11,2025-04-07,Quarter 1,Referral,No Discount,18500
+1012,Radhika Aggarwal,Female,25,Working Professional,Coding/Programming,null,Elite,null,North,Batala,Punjab,India,Amandeep Kaur,2025-04-11,2025-04-07,Quarter 1,Social Media,No Discount,18500
+1013,Raghav Chopra,Male,38,Working Professional,Drafting & Designing,null,null,Beginners,East,Phagwara,Punjab,India,Amandeep Kaur,2025-04-16,2025-04-12,Quarter 1,Organic Search ,No Discount,9500
+1014,Muskan Malhotra,Female,35,Working Professional,Digital Content Creation,null,Elite,null,East,Mohali,Punjab,India,Amandeep Kaur,2025-04-17,2025-04-13,Quarter 1,Referral,No Discount,17500
+1015,Binder Kaur,Female,18,Student,Coding,Advance,null,null,North,Gurdaspur,Punjab,India,Amandeep Kaur,2025-04-17,2025-04-13,Quarter 1,Organic Search ,50%,13500
+1016,Himmat Kaur,Female,22,Student,MechTech Design,null,null,Beginners,North,Amritsar,Punjab,India,Amandeep Kaur,2025-04-17,2025-04-13,Quarter 1,Social Media,50%,9000
+1017,Gurdeep Kaur,Female,38,Working Professional,Coding,Advance,null,null,South,Mansa,Punjab,India,Amandeep Kaur,2025-04-17,2025-04-13,Quarter 1,Organic Search ,No Discount,13500
+1018,Balkaranjeet Singh,Male,29,Working Professional,Coding,Advance,null,null,West,Sri Muktsar Sahib,Punjab,India,Sukhjeet Kaur,2025-04-19,2025-04-15,Quarter 1,Organic Search ,No Discount,13500
+1019,Charanpreet Kaur,Female,36,Working Professional,Mechanical,Advance,null,null,East,Jalandhar,Punjab,India,Sukhjeet Kaur,2025-04-23,2025-04-19,Quarter 1,Direct Inquiry,No Discount,14000
+1020,Kajal Tandon,Female,35,Working Professional,Coding,Advance,null,null,South,Bathinda,Punjab,India,Sukhjeet Kaur,2025-04-23,2025-04-19,Quarter 1,Organic Search ,No Discount,13500
+1021,Shruti Joshi,Female,16,Student,Computer Fundamentals,null,null,Beginners,East,Jalandhar,Punjab,India,Sukhjeet Kaur,2025-04-24,2025-04-20,Quarter 1,Referral,50%,6500
+1022,Arjun Gupta,Male,38,Working Professional,Drafting & Designing,null,null,Beginners,East,Hoshiarpur,Punjab,India,Sukhjeet Kaur,2025-04-24,2025-04-20,Quarter 1,Organic Search ,No Discount,9500
+1023,Hansika Kaur,Female,26,Working Professional,Self Esteem Workshop,Advance,null,null,North,Pathankot,Punjab,India,Amandeep Kaur,2025-04-27,2025-04-23,Quarter 1,Direct Inquiry,No Discount,10500
+1024,Divya Tandon,Female,20,Student,Civil,Advance,null,null,East,Phagwara,Punjab,India,Amandeep Kaur,2025-04-27,2025-04-23,Quarter 1,Email Marketing,50%,14000
+1025,Jagjeet Kaur,Female,16,Student,Digital Literacy,null,null,Beginners,South,Barnala,Punjab,India,Amandeep Kaur,2025-04-28,2025-04-24,Quarter 1,Organic Search ,50%,5000
+1026,Aman Sethi,Male,35,Working Professional,Computer Fundamentals,null,null,Beginners,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-04-28,2025-04-24,Quarter 1,Referral,No Discount,6500
+1027,Balwant Singh,Male,15,Student,MechTech Design,null,null,Beginners,North,Amritsar,Punjab,India,Sukhjeet Kaur,2025-04-29,2025-04-25,Quarter 1,Referral,50%,9000
+1028,Abhaijeet Singh,Male,26,Working Professional,Mechanical,null,Elite,null,South,Bathinda,Punjab,India,Amandeep Kaur,2025-04-29,2025-04-25,Quarter 1,Social Media,No Discount,19000
+1029,Deepali Verma,Female,40,Working Professional,Digital Content Creation,null,Elite,null,South,Patiala,Punjab,India,Amandeep Kaur,2025-04-30,2025-04-26,Quarter 1,Organic Search ,No Discount,17500
+1030,Amandeep Kaur,Female,36,Working Professional,Digital Content Creation,null,Elite,null,West,Fazilka,Punjab,India,Amandeep Kaur,2025-04-30,2025-04-26,Quarter 1,Organic Search ,No Discount,17500
+1031,Dilpreet Singh,Male,26,Working Professional,Coding,Advance,null,null,South,Patiala,Punjab,India,Amandeep Kaur,2025-05-02,2025-04-28,Quarter 1,Email Marketing,No Discount,13500
+1032,Amrit Kaur,Female,39,Working Professional,Mechanical,null,Elite,null,East,Mohali,Punjab,India,Amandeep Kaur,2025-05-02,2025-04-28,Quarter 1,Social Media,No Discount,19000
+1033,Daljeet Singh,Male,31,Working Professional,Civil,Advance,null,null,West,Firozpur,Punjab,India,Amandeep Kaur,2025-05-02,2025-04-28,Quarter 1,Referral,No Discount,14000
+1034,Rohan Chopra,Male,24,Student,Digital Media & Accountancy,Advance,null,null,South,Mansa,Punjab,India,Amandeep Kaur,2025-05-02,2025-04-28,Quarter 1,Direct Inquiry,No Discount,12000
+1035,Chhinda Singh,Male,30,Working Professional,Business Essentials,null,Elite,null,North,Gurdaspur,Punjab,India,Amandeep Kaur,2025-05-05,2025-05-01,Quarter 1,Social Media,No Discount,16500
+1036,Jasleen Kaur,Female,29,Working Professional,Self Esteem Workshop,Advance,null,null,West,Fazilka,Punjab,India,Amandeep Kaur,2025-05-05,2025-05-01,Quarter 1,Email Marketing,No Discount,10500
+1037,Pooja Tandon,Female,29,Working Professional,Mechanical,null,Elite,null,South,Bathinda,Punjab,India,Amandeep Kaur,2025-05-05,2025-05-01,Quarter 1,Referral,No Discount,19000
+1038,Ananya Chopra,Female,33,Working Professional,Mechanical,null,Elite,null,East,Hoshiarpur,Punjab,India,Amandeep Kaur,2025-05-06,2025-05-02,Quarter 1,Organic Search ,No Discount,19000
+1039,Reyansh Gupta,Male,26,Working Professional,Drafting & Designing,null,null,Beginners,West,Sri Muktsar Sahib,Punjab,India,Amandeep Kaur,2025-05-10,2025-05-06,Quarter 1,Social Media,No Discount,9500
+1040,Avneet Kaur,Female,37,Working Professional,Digital Content Creation,null,Elite,null,East,Rupnagar,Punjab,India,Amandeep Kaur,2025-05-12,2025-05-08,Quarter 1,Social Media,No Discount,17500
+1041,Amrinder Singh,Male,34,Working Professional,Coding,null,null,Beginners,East,Mohali,Punjab,India,Sukhjeet Kaur,2025-05-12,2025-05-08,Quarter 1,Organic Search ,No Discount,8500
+1042,Yukta Grover,Female,39,Working Professional,Business Essentials,null,Elite,null,South,Patiala,Punjab,India,Sukhjeet Kaur,2025-05-14,2025-05-10,Quarter 1,Referral,No Discount,16500
+1043,Harveen Kaur,Female,17,Student,Business Essentials,null,Elite,null,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-05-16,2025-05-12,Quarter 1,Organic Search ,50%,16500
+1044,Garima Chopra,Female,19,Student,Digital Literacy,null,null,Beginners,East,Hoshiarpur,Punjab,India,Amandeep Kaur,2025-05-16,2025-05-12,Quarter 1,Organic Search ,50%,5000
+1045,Darshan Kaur,Female,33,Working Professional,Coding,null,null,Beginners,North,Gurdaspur,Punjab,India,Amandeep Kaur,2025-05-17,2025-05-13,Quarter 1,Email Marketing,No Discount,8500
+1046,Agampreet Singh,Male,21,Student,Digital Content Creation,null,Elite,null,North,Gurdaspur,Punjab,India,Amandeep Kaur,2025-05-18,2025-05-14,Quarter 1,Organic Search ,50%,17500
+1047,Divyansh Grover,Male,35,Working Professional,Self Esteem Workshop,Advance,null,null,North,Amritsar,Punjab,India,Amandeep Kaur,2025-05-19,2025-05-15,Quarter 1,Email Marketing,No Discount,10500
+1048,Hardev Kaur,Female,23,Student,Drafting & Designing,null,null,Beginners,South,Barnala,Punjab,India,Amandeep Kaur,2025-05-19,2025-05-15,Quarter 1,Organic Search ,No Discount,9500
+1049,Mispreet Kaur,Female,21,Student,Civil,Advance,null,null,South,Barnala,Punjab,India,Amandeep Kaur,2025-05-19,2025-05-15,Quarter 1,Email Marketing,50%,14000
+1050,Gurnam Kaur,Female,32,Working Professional,Coding,Advance,null,null,East,Mohali,Punjab,India,Amandeep Kaur,2025-05-20,2025-05-16,Quarter 1,Referral,No Discount,13500
+1051,Diljeet Singh,Male,18,Student,Self Esteem Workshop,Advance,null,null,South,Patiala,Punjab,India,Amandeep Kaur,2025-05-21,2025-05-17,Quarter 1,Email Marketing,50%,10500
+1052,Armaan Singh,Male,39,Working Professional,Coding,null,null,Beginners,South,Bathinda,Punjab,India,Amandeep Kaur,2025-05-22,2025-05-18,Quarter 1,Direct Inquiry,No Discount,8500
+1053,Sunil Sharma,Male,28,Working Professional,Coding,Advance,null,null,East,Rupnagar,Punjab,India,Amandeep Kaur,2025-05-23,2025-05-19,Quarter 1,Organic Search ,No Discount,13500
+1054,Cheten Malhotra,Male,32,Working Professional,Coding,null,null,Beginners,North,Gurdaspur,Punjab,India,Amandeep Kaur,2025-05-24,2025-05-20,Quarter 1,Email Marketing,No Discount,8500
+1055,Ridhi Khanna,Female,40,Working Professional,Digital Media & Accountancy,Advance,null,null,South,Bathinda,Punjab,India,Amandeep Kaur,2025-05-25,2025-05-21,Quarter 1,Social Media,No Discount,12000
+1056,Ridhi Sood,Female,23,Student,Coding/Programming,null,Elite,null,South,Bathinda,Punjab,India,Amandeep Kaur,2025-05-25,2025-05-21,Quarter 1,Social Media,No Discount,18500
+1057,Harman Kaur,Female,40,Working Professional,Civil,null,Elite,null,West,Tarn Taran,Punjab,India,Amandeep Kaur,2025-05-26,2025-05-22,Quarter 1,Referral,No Discount,19000
+1058,Jagdeep Kaur,Female,35,Working Professional,Digital Literacy,null,null,Beginners,East,Rupnagar,Punjab,India,Amandeep Kaur,2025-05-26,2025-05-22,Quarter 1,Referral,No Discount,5000
+1059,Rishabh Tandon,Male,16,Student,Coding/Programming,null,Elite,null,North,Batala,Punjab,India,Amandeep Kaur,2025-05-26,2025-05-22,Quarter 1,Referral,50%,18500
+1060,Jasjinder Kaur,Female,34,Working Professional,Coding/Programming,null,Elite,null,East,Phagwara,Punjab,India,Amandeep Kaur,2025-05-27,2025-05-23,Quarter 1,Organic Search ,No Discount,18500
+1061,Cheten Grover,Male,29,Working Professional,Coding,Advance,null,null,East,Jalandhar,Punjab,India,Amandeep Kaur,2025-05-28,2025-05-24,Quarter 1,Email Marketing,No Discount,13500
+1062,Muskan Joshi,Female,21,Student,Coding,null,null,Beginners,West,Sri Muktsar Sahib,Punjab,India,Amandeep Kaur,2025-05-31,2025-05-27,Quarter 1,Referral,50%,8500
+1063,Harinder Kaur,Female,26,Working Professional,Digital Media & Accountancy,Advance,null,null,South,Barnala,Punjab,India,Amandeep Kaur,2025-05-31,2025-05-27,Quarter 1,Organic Search ,No Discount,12000
+1064,Lakhbir Kaur,Female,22,Student,Civil,Advance,null,null,South,Barnala,Punjab,India,Amandeep Kaur,2025-06-01,2025-05-28,Quarter 1,Social Media,50%,14000
+1065,Shreya Chopra,Female,29,Working Professional,Coding,Advance,null,null,South,Sangrur,Punjab,India,Amandeep Kaur,2025-06-03,2025-05-30,Quarter 1,Organic Search ,No Discount,13500
+1066,Jyoti Tandon,Female,17,Student,Self Esteem Workshop,Advance,null,null,South,Barnala,Punjab,India,Amandeep Kaur,2025-06-03,2025-05-30,Quarter 1,Organic Search ,50%,10500
+1067,Agamjot Singh,Male,28,Working Professional,Coding,Advance,null,null,East,Rupnagar,Punjab,India,Amandeep Kaur,2025-06-04,2025-05-31,Quarter 1,Email Marketing,No Discount,13500
+1068,Gursimran Kaur,Female,31,Working Professional,Self Esteem Workshop,Advance,null,null,West,Tarn Taran,Punjab,India,Amandeep Kaur,2025-06-05,2025-06-01,Quarter 1,Social Media,No Discount,10500
+1069,Harbhajan Kaur,Female,18,Student,Mechanical,Advance,null,null,South,Mansa,Punjab,India,Amandeep Kaur,2025-06-06,2025-06-02,Quarter 1,Direct Inquiry,50%,14000
+1070,Palak Arora,Female,32,Working Professional,Drafting & Designing,null,null,Beginners,North,Amritsar,Punjab,India,Amandeep Kaur,2025-06-07,2025-06-03,Quarter 1,Referral,No Discount,9500
+1071,Ananya Aggarwal,Female,22,Student,Digital Content Creation,null,Elite,null,West,Firozpur,Punjab,India,Amandeep Kaur,2025-06-08,2025-06-04,Quarter 1,Email Marketing,50%,17500
+1072,Harjinder Kaur,Female,18,Student,Digital Media & Accountancy,Advance,null,null,North,Amritsar,Punjab,India,Amandeep Kaur,2025-06-08,2025-06-04,Quarter 1,Direct Inquiry,50%,12000
+1073,Tanya Tandon,Female,16,Student,Self Esteem Workshop,Advance,null,null,West,Fazilka,Punjab,India,Amandeep Kaur,2025-06-08,2025-06-04,Quarter 1,Organic Search ,50%,10500
+1074,Manmohan Kaur,Female,20,Student,Self Esteem Workshop,Advance,null,null,North,Amritsar,Punjab,India,Amandeep Kaur,2025-06-09,2025-06-05,Quarter 1,Email Marketing,50%,10500
+1075,Meharpreet Kaur,Female,36,Working Professional,Digital Media & Accountancy,Advance,null,null,West,Firozpur,Punjab,India,Amandeep Kaur,2025-06-10,2025-06-06,Quarter 1,Email Marketing,No Discount,12000
+1076,Drishti Khanna,Female,24,Student,Civil,Advance,null,null,North,Pathankot,Punjab,India,Amandeep Kaur,2025-06-10,2025-06-06,Quarter 1,Organic Search ,No Discount,14000
+1077,Yukta Chopra,Female,18,Student,Coding,Advance,null,null,East,Rupnagar,Punjab,India,Amandeep Kaur,2025-06-10,2025-06-06,Quarter 1,Email Marketing,50%,13500
+1078,Gautam Chopra,Male,36,Working Professional,Civil,null,Elite,null,South,Barnala,Punjab,India,Amandeep Kaur,2025-06-11,2025-06-07,Quarter 1,Social Media,No Discount,19000
+1079,Angad Singh,Male,32,Working Professional,Business Essentials,null,Elite,null,South,Barnala,Punjab,India,Amandeep Kaur,2025-06-11,2025-06-07,Quarter 1,Social Media,No Discount,16500
+1080,Hardeep Kaur,Female,40,Working Professional,Mechanical,Advance,null,null,West,Tarn Taran,Punjab,India,Amandeep Kaur,2025-06-12,2025-06-08,Quarter 1,Organic Search ,No Discount,14000
+1081,Aditya Grover,Male,26,Working Professional,Business Essentials,null,Elite,null,South,Sangrur,Punjab,India,Sukhjeet Kaur,2025-06-13,2025-06-09,Quarter 1,Social Media,No Discount,16500
+1082,Arpan Kaur,Female,16,Student,Coding,null,null,Beginners,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2025-06-13,2025-06-09,Quarter 1,Organic Search ,50%,8500
+1083,Mehtab Kaur,Female,24,Student,Civil,Advance,null,null,South,Mansa,Punjab,India,Sukhjeet Kaur,2025-06-14,2025-06-10,Quarter 1,Social Media,No Discount,14000
+1084,Sunil Kapoor,Male,18,Student,Digital Literacy,null,null,Beginners,South,Mansa,Punjab,India,Amandeep Kaur,2025-06-14,2025-06-10,Quarter 1,Social Media,50%,5000
+1085,Avnoor Kaur,Female,28,Working Professional,Computer Fundamentals,null,null,Beginners,North,Gurdaspur,Punjab,India,Amandeep Kaur,2025-06-15,2025-06-11,Quarter 1,Organic Search ,No Discount,6500
+1086,Deepali Malhotra,Female,30,Working Professional,Self Esteem Workshop,Advance,null,null,South,Sangrur,Punjab,India,Amandeep Kaur,2025-06-15,2025-06-11,Quarter 1,Social Media,No Discount,10500
+1087,Aaravpreet Singh,Male,29,Working Professional,Digital Content Creation,null,Elite,null,West,Tarn Taran,Punjab,India,Amandeep Kaur,2025-06-15,2025-06-11,Quarter 1,Organic Search ,No Discount,17500
+1088,Gurdev Kaur,Female,22,Student,Computer Fundamentals,null,null,Beginners,South,Barnala,Punjab,India,Amandeep Kaur,2025-06-15,2025-06-11,Quarter 1,Organic Search ,50%,6500
+1089,Bahadur Singh,Male,28,Working Professional,Self Esteem Workshop,Advance,null,null,East,Jalandhar,Punjab,India,Amandeep Kaur,2025-06-16,2025-06-12,Quarter 1,Direct Inquiry,No Discount,10500
+1090,Sneha Khanna,Female,37,Working Professional,Computer Fundamentals,null,null,Beginners,West,Firozpur,Punjab,India,Amandeep Kaur,2025-06-16,2025-06-12,Quarter 1,Organic Search ,No Discount,6500
+1091,Yash Mehra,Male,39,Working Professional,Coding,null,null,Beginners,West,Firozpur,Punjab,India,Amandeep Kaur,2025-06-16,2025-06-12,Quarter 1,Referral,No Discount,8500
+1092,Chhavi Verma,Female,22,Student,Computer Fundamentals,null,null,Beginners,North,Amritsar,Punjab,India,Amandeep Kaur,2025-06-17,2025-06-13,Quarter 1,Organic Search ,50%,6500
+1093,Garima Sethi,Female,35,Working Professional,Computer Fundamentals,null,null,Beginners,South,Sangrur,Punjab,India,Amandeep Kaur,2025-06-18,2025-06-14,Quarter 1,Direct Inquiry,No Discount,6500
+1094,Mohit Gupta,Male,30,Working Professional,Business Essentials,null,Elite,null,North,Batala,Punjab,India,Sukhjeet Kaur,2025-06-20,2025-06-16,Quarter 1,Referral,No Discount,16500
+1095,Baninder Kaur,Female,27,Working Professional,MechTech Design,null,null,Beginners,South,Mansa,Punjab,India,Amandeep Kaur,2025-06-20,2025-06-16,Quarter 1,Social Media,No Discount,9000
+1096,Sahil Kapoor,Male,32,Working Professional,Computer Fundamentals,null,null,Beginners,North,Amritsar,Punjab,India,Amandeep Kaur,2025-06-21,2025-06-17,Quarter 1,Direct Inquiry,No Discount,6500
+1097,Kirpal Kaur,Female,29,Working Professional,Drafting & Designing,null,null,Beginners,South,Bathinda,Punjab,India,Amandeep Kaur,2025-06-22,2025-06-18,Quarter 1,Referral,No Discount,9500
+1098,Kajal Khanna,Female,35,Working Professional,Mechanical,null,Elite,null,North,Amritsar,Punjab,India,Amandeep Kaur,2025-06-24,2025-06-20,Quarter 1,Social Media,No Discount,19000
+1099,Abhishek Aggarwal,Male,38,Working Professional,Coding,null,null,Beginners,North,Batala,Punjab,India,Amandeep Kaur,2025-06-24,2025-06-20,Quarter 1,Organic Search ,No Discount,8500
+1100,Devinder Kaur,Female,40,Working Professional,Computer Fundamentals,null,null,Beginners,North,Pathankot,Punjab,India,Amandeep Kaur,2025-06-24,2025-06-20,Quarter 1,Referral,No Discount,6500
+1101,Barinder Singh,Male,39,Working Professional,Digital Content Creation,null,Elite,null,East,Jalandhar,Punjab,India,Amandeep Kaur,2025-06-25,2025-06-21,Quarter 1,Organic Search ,No Discount,17500
+1102,Piyush Sood,Male,27,Working Professional,Digital Content Creation,null,Elite,null,South,Bathinda,Punjab,India,Amandeep Kaur,2025-06-26,2025-06-22,Quarter 1,Social Media,No Discount,17500
+1103,Loveleen Kaur,Female,23,Student,Civil,null,Elite,null,East,Jalandhar,Punjab,India,Amandeep Kaur,2025-06-27,2025-06-23,Quarter 1,Organic Search ,No Discount,19000
+1104,Gaurav Tandon,Male,29,Working Professional,Computer Fundamentals,null,null,Beginners,North,Amritsar,Punjab,India,Amandeep Kaur,2025-06-27,2025-06-23,Quarter 1,Organic Search ,No Discount,6500
+1105,Tanya Sood,Female,27,Working Professional,Mechanical,null,Elite,null,South,Mansa,Punjab,India,Sukhjeet Kaur,2025-06-29,2025-06-25,Quarter 1,Organic Search ,No Discount,19000
+1106,Priya Bansal,Female,15,Student,Digital Content Creation,null,Elite,null,East,Phagwara,Punjab,India,Sukhjeet Kaur,2025-06-30,2025-06-26,Quarter 1,Email Marketing,50%,17500
+1107,Utkarsh Khanna,Male,21,Student,Computer Fundamentals,null,null,Beginners,West,Firozpur,Punjab,India,Sukhjeet Kaur,2025-06-30,2025-06-26,Quarter 1,Referral,50%,6500
+1108,Baljit Kaur,Female,34,Working Professional,Digital Content Creation,null,Elite,null,North,Batala,Punjab,India,Sukhjeet Kaur,2025-06-30,2025-06-26,Quarter 1,Social Media,No Discount,17500
+1109,Sahil Arora,Male,29,Working Professional,MechTech Design,null,null,Beginners,East,Phagwara,Punjab,India,Sukhjeet Kaur,2025-07-01,2025-06-27,Quarter 2,Organic Search ,No Discount,9000
+1110,Ekam Kaur,Female,25,Working Professional,Mechanical,Advance,null,null,West,Firozpur,Punjab,India,Sukhjeet Kaur,2025-07-01,2025-06-27,Quarter 2,Organic Search ,No Discount,14000
+1111,Kamalpreet Kaur,Female,22,Student,Coding/Programming,null,Elite,null,South,Barnala,Punjab,India,Amandeep Kaur,2025-07-02,2025-06-28,Quarter 2,Organic Search ,50%,18500
+1112,Amit Malhotra,Male,35,Working Professional,Self Esteem Workshop,Advance,null,null,South,Bathinda,Punjab,India,Amandeep Kaur,2025-07-03,2025-06-29,Quarter 2,Email Marketing,No Discount,10500
+1113,Kiranpreet Kaur,Female,21,Student,Drafting & Designing,null,null,Beginners,West,Firozpur,Punjab,India,Amandeep Kaur,2025-07-04,2025-06-30,Quarter 2,Referral,50%,9500
+1114,Ankit Kapoor,Male,40,Working Professional,Mechanical,null,Elite,null,North,Batala,Punjab,India,Amandeep Kaur,2025-07-06,2025-07-02,Quarter 2,Referral,No Discount,19000
+1115,Shivam Grover,Male,33,Working Professional,MechTech Design,null,null,Beginners,East,Hoshiarpur,Punjab,India,Amandeep Kaur,2025-07-07,2025-07-03,Quarter 2,Organic Search ,No Discount,9000
+1116,Gurinder Kaur,Female,37,Working Professional,Digital Media & Accountancy,Advance,null,null,East,Phagwara,Punjab,India,Amandeep Kaur,2025-07-08,2025-07-04,Quarter 2,Organic Search ,No Discount,12000
+1117,Sneha Sethi,Female,25,Working Professional,MechTech Design,null,null,Beginners,North,Pathankot,Punjab,India,Amandeep Kaur,2025-07-08,2025-07-04,Quarter 2,Social Media,No Discount,9000
+1118,Payal Sood,Female,25,Working Professional,Mechanical,null,Elite,null,West,Tarn Taran,Punjab,India,Amandeep Kaur,2025-07-09,2025-07-05,Quarter 2,Direct Inquiry,No Discount,19000
+1119,Raghav Grover,Male,38,Working Professional,Civil,null,Elite,null,West,Tarn Taran,Punjab,India,Amandeep Kaur,2025-07-09,2025-07-05,Quarter 2,Referral,No Discount,19000
+1120,Balwinder Kaur,Female,35,Working Professional,Civil,Advance,null,null,North,Batala,Punjab,India,Amandeep Kaur,2025-07-09,2025-07-05,Quarter 2,Organic Search ,No Discount,14000
+1121,Ashmeet Kaur,Female,18,Student,Drafting & Designing,null,null,Beginners,North,Batala,Punjab,India,Amandeep Kaur,2025-07-11,2025-07-07,Quarter 2,Social Media,50%,9500
+1122,Gurpreet Kaur,Female,22,Student,Business Essentials,null,Elite,null,East,Mohali,Punjab,India,Sukhjeet Kaur,2025-07-11,2025-07-07,Quarter 2,Organic Search ,50%,16500
+1123,Fatehbaj Singh,Male,38,Working Professional,Self Esteem Workshop,Advance,null,null,South,Bathinda,Punjab,India,Amandeep Kaur,2025-07-11,2025-07-07,Quarter 2,Organic Search ,No Discount,10500
+1124,Harnoor Kaur,Female,29,Working Professional,Civil,null,Elite,null,East,Mohali,Punjab,India,Amandeep Kaur,2025-07-12,2025-07-08,Quarter 2,Social Media,No Discount,19000
+1125,Birinder Kaur,Female,36,Working Professional,Coding/Programming,null,Elite,null,East,Jalandhar,Punjab,India,Amandeep Kaur,2025-07-13,2025-07-09,Quarter 2,Organic Search ,No Discount,18500
+1126,Harmeet Kaur,Female,35,Working Professional,Digital Literacy,null,null,Beginners,South,Barnala,Punjab,India,Amandeep Kaur,2025-07-14,2025-07-10,Quarter 2,Email Marketing,No Discount,5000
+1127,Kamaldeep Kaur,Female,21,Student,Coding/Programming,null,Elite,null,South,Mansa,Punjab,India,Amandeep Kaur,2025-07-14,2025-07-10,Quarter 2,Email Marketing,50%,18500
+1128,Amrik Singh,Male,40,Working Professional,Drafting & Designing,null,null,Beginners,South,Mansa,Punjab,India,Amandeep Kaur,2025-07-14,2025-07-10,Quarter 2,Social Media,No Discount,9500
+1129,Ankit Malhotra,Male,33,Working Professional,Mechanical,null,Elite,null,South,Barnala,Punjab,India,Amandeep Kaur,2025-07-15,2025-07-11,Quarter 2,Referral,No Discount,19000
+1130,Daksh Gupta,Male,37,Working Professional,Self Esteem Workshop,Advance,null,null,West,Firozpur,Punjab,India,Amandeep Kaur,2025-07-17,2025-07-13,Quarter 2,Email Marketing,No Discount,10500
+1131,Iknoor Kaur,Female,25,Working Professional,Mechanical,null,Elite,null,East,Rupnagar,Punjab,India,Amandeep Kaur,2025-07-17,2025-07-13,Quarter 2,Email Marketing,No Discount,19000
+1132,Anmol Singh,Male,25,Working Professional,Coding,null,null,Beginners,East,Mohali,Punjab,India,Amandeep Kaur,2025-07-18,2025-07-14,Quarter 2,Email Marketing,No Discount,8500
+1133,Chhavi Khanna,Female,40,Working Professional,Digital Literacy,null,null,Beginners,East,Hoshiarpur,Punjab,India,Sukhjeet Kaur,2025-07-18,2025-07-14,Quarter 2,Organic Search ,No Discount,5000
+1134,Balpreet Kaur,Female,16,Student,Civil,Advance,null,null,East,Phagwara,Punjab,India,Sukhjeet Kaur,2025-07-18,2025-07-14,Quarter 2,Referral,50%,14000
+1135,Prerna Arora,Female,38,Working Professional,Business Essentials,null,Elite,null,South,Barnala,Punjab,India,Sukhjeet Kaur,2025-07-18,2025-07-14,Quarter 2,Organic Search ,No Discount,16500
+1136,Radhika Kapoor,Female,26,Working Professional,Coding/Programming,null,Elite,null,West,Sri Muktsar Sahib,Punjab,India,Sukhjeet Kaur,2025-07-19,2025-07-15,Quarter 2,Direct Inquiry,No Discount,18500
+1137,Gautam Kapoor,Male,20,Student,Coding,Advance,null,null,North,Amritsar,Punjab,India,Sukhjeet Kaur,2025-07-19,2025-07-15,Quarter 2,Organic Search ,50%,13500
+1138,Seerat Kaur,Female,16,Student,Digital Content Creation,null,Elite,null,West,Firozpur,Punjab,India,Sukhjeet Kaur,2025-07-21,2025-07-17,Quarter 2,Social Media,50%,17500
+1139,Jaskirat Kaur,Female,35,Working Professional,Business Essentials,null,Elite,null,South,Barnala,Punjab,India,Sukhjeet Kaur,2025-07-22,2025-07-18,Quarter 2,Social Media,No Discount,16500
+1140,Divjot Kaur,Female,15,Student,Drafting & Designing,null,null,Beginners,East,Mohali,Punjab,India,Amandeep Kaur,2025-07-22,2025-07-18,Quarter 2,Organic Search ,50%,9500
+1141,Arshdeep Kaur,Female,26,Working Professional,Civil,null,Elite,null,East,Hoshiarpur,Punjab,India,Amandeep Kaur,2025-07-23,2025-07-19,Quarter 2,Organic Search ,No Discount,19000
+1142,Deepak Tandon,Male,40,Working Professional,Coding/Programming,null,Elite,null,East,Hoshiarpur,Punjab,India,Amandeep Kaur,2025-07-25,2025-07-21,Quarter 2,Social Media,No Discount,18500
+1143,Budh Singh,Male,36,Working Professional,Digital Media & Accountancy,Advance,null,null,North,Batala,Punjab,India,Amandeep Kaur,2025-07-25,2025-07-21,Quarter 2,Social Media,No Discount,12000
+1144,Avneet Kaur,Female,26,Working Professional,Coding,Advance,null,null,West,Moga,Punjab,India,Amandeep Kaur,2025-07-25,2025-07-21,Quarter 2,Email Marketing,No Discount,13500
+1145,Arjun Aggarwal,Male,39,Working Professional,Coding,null,null,Beginners,North,Batala,Punjab,India,Amandeep Kaur,2025-07-25,2025-07-21,Quarter 2,Social Media,No Discount,8500
+1146,Gurleen Kaur,Female,31,Working Professional,Coding/Programming,null,Elite,null,South,Bathinda,Punjab,India,Amandeep Kaur,2025-07-26,2025-07-22,Quarter 2,Social Media,No Discount,18500
+1147,Jashan Kaur,Female,24,Student,Coding/Programming,null,Elite,null,South,Bathinda,Punjab,India,Amandeep Kaur,2025-07-26,2025-07-22,Quarter 2,Organic Search ,No Discount,18500
+1148,Jyoti Grover,Female,30,Working Professional,Civil,null,Elite,null,South,Barnala,Punjab,India,Amandeep Kaur,2025-07-26,2025-07-22,Quarter 2,Referral,No Discount,19000
+1149,Isha Gupta,Female,29,Working Professional,Drafting & Designing,null,null,Beginners,East,Jalandhar,Punjab,India,Amandeep Kaur,2025-07-27,2025-07-23,Quarter 2,Social Media,No Discount,9500
+1150,Bimaljit Kaur,Female,29,Working Professional,Drafting & Designing,null,null,Beginners,West,Fazilka,Punjab,India,Amandeep Kaur,2025-07-27,2025-07-23,Quarter 2,Direct Inquiry,No Discount,9500
+1151,Radhika Sethi,Female,40,Working Professional,Mechanical,Advance,null,null,South,Patiala,Punjab,India,Amandeep Kaur,2025-07-28,2025-07-24,Quarter 2,Email Marketing,No Discount,14000
+1152,Divya Aggarwal,Female,36,Working Professional,Drafting & Designing,null,null,Beginners,West,Tarn Taran,Punjab,India,Amandeep Kaur,2025-07-29,2025-07-25,Quarter 2,Referral,No Discount,9500
+1153,Barinder Kaur,Female,26,Working Professional,Business Essentials,null,Elite,null,East,Rupnagar,Punjab,India,Amandeep Kaur,2025-07-29,2025-07-25,Quarter 2,Social Media,No Discount,16500
+1154,Agampreet Kaur,Female,39,Working Professional,Digital Content Creation,null,Elite,null,South,Barnala,Punjab,India,Amandeep Kaur,2025-07-30,2025-07-26,Quarter 2,Organic Search ,No Discount,17500
+1155,Karan Mehra,Male,31,Working Professional,Computer Fundamentals,null,null,Beginners,South,Patiala,Punjab,India,Amandeep Kaur,2025-07-30,2025-07-26,Quarter 2,Referral,No Discount,6500
+1156,Japman Kaur,Female,24,Student,Business Essentials,null,Elite,null,East,Mohali,Punjab,India,Amandeep Kaur,2025-07-30,2025-07-26,Quarter 2,Organic Search ,No Discount,16500
+1157,Damanpreet Kaur,Female,30,Working Professional,Civil,null,Elite,null,North,Amritsar,Punjab,India,Amandeep Kaur,2025-07-30,2025-07-26,Quarter 2,Direct Inquiry,No Discount,19000
+1158,Narinder Kaur,Female,29,Working Professional,MechTech Design,null,null,Beginners,East,Rupnagar,Punjab,India,Amandeep Kaur,2025-07-31,2025-07-27,Quarter 2,Organic Search ,No Discount,9000
+1159,Madhav Chopra,Male,33,Working Professional,MechTech Design,null,null,Beginners,South,Bathinda,Punjab,India,Amandeep Kaur,2025-08-01,2025-07-28,Quarter 2,Social Media,No Discount,9000
+1160,Jasmeet Kaur,Female,37,Working Professional,Digital Content Creation,null,Elite,null,East,Rupnagar,Punjab,India,Sukhjeet Kaur,2025-08-01,2025-07-28,Quarter 2,Direct Inquiry,No Discount,17500
+1161,Jasjit Kaur,Female,25,Working Professional,Mechanical,null,Elite,null,North,Batala,Punjab,India,Amandeep Kaur,2025-08-01,2025-07-28,Quarter 2,Social Media,No Discount,19000
+1162,Mansha Sood,Female,25,Working Professional,Civil,null,Elite,null,North,Amritsar,Punjab,India,Amandeep Kaur,2025-08-02,2025-07-29,Quarter 2,Referral,No Discount,19000
+1163,Deepak Gupta,Male,38,Working Professional,Civil,Advance,null,null,West,Tarn Taran,Punjab,India,Amandeep Kaur,2025-08-02,2025-07-29,Quarter 2,Email Marketing,No Discount,14000
+1164,Manbir Kaur,Female,35,Working Professional,Mechanical,Advance,null,null,South,Barnala,Punjab,India,Amandeep Kaur,2025-08-02,2025-07-29,Quarter 2,Social Media,No Discount,14000
+1165,Balkar Singh,Male,18,Student,Coding,Advance,null,null,West,Firozpur,Punjab,India,Amandeep Kaur,2025-08-02,2025-07-29,Quarter 2,Organic Search ,50%,13500
+1166,Darshan Singh,Male,22,Student,Digital Literacy,null,null,Beginners,West,Firozpur,Punjab,India,Amandeep Kaur,2025-08-02,2025-07-29,Quarter 2,Organic Search ,50%,5000
+1167,Aanya Gupta,Female,38,Working Professional,Mechanical,Advance,null,null,South,Patiala,Punjab,India,Amandeep Kaur,2025-08-03,2025-07-30,Quarter 2,Social Media,No Discount,14000
+1168,Riya Mehra,Female,29,Working Professional,Coding,null,null,Beginners,South,Patiala,Punjab,India,Amandeep Kaur,2025-08-03,2025-07-30,Quarter 2,Referral,No Discount,8500
+1169,Vanshika Mehra,Female,36,Working Professional,Drafting & Designing,null,null,Beginners,East,Jalandhar,Punjab,India,Amandeep Kaur,2025-08-04,2025-07-31,Quarter 2,Organic Search ,No Discount,9500
+1170,Krishna Chopra,Male,35,Working Professional,Self Esteem Workshop,Advance,null,null,South,Patiala,Punjab,India,Amandeep Kaur,2025-08-05,2025-08-01,Quarter 2,Referral,No Discount,10500
+1171,Lovepreet Kaur,Female,16,Student,Coding,Advance,null,null,North,Gurdaspur,Punjab,India,Amandeep Kaur,2025-08-06,2025-08-02,Quarter 2,Social Media,50%,13500
+1172,Balbir Singh,Male,38,Working Professional,Civil,Advance,null,null,East,Mohali,Punjab,India,Amandeep Kaur,2025-08-07,2025-08-03,Quarter 2,Social Media,No Discount,14000
+1173,Gursharan Kaur,Female,26,Working Professional,Coding/Programming,null,Elite,null,South,Mansa,Punjab,India,Sukhjeet Kaur,2025-08-08,2025-08-04,Quarter 2,Social Media,No Discount,18500
+1174,Neha Aggarwal,Female,20,Student,Civil,Advance,null,null,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-08-08,2025-08-04,Quarter 2,Referral,50%,14000
+1175,Aditi Sharma,Female,16,Student,Digital Content Creation,null,Elite,null,South,Sangrur,Punjab,India,Sukhjeet Kaur,2025-08-09,2025-08-05,Quarter 2,Referral,50%,17500
+1176,Bawa Singh,Male,35,Working Professional,Drafting & Designing,null,null,Beginners,West,Sri Muktsar Sahib,Punjab,India,Sukhjeet Kaur,2025-08-09,2025-08-05,Quarter 2,Organic Search ,No Discount,9500
+1177,Shruti Sethi,Female,15,Student,Business Essentials,null,Elite,null,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-08-11,2025-08-07,Quarter 2,Social Media,50%,16500
+1178,Kajal Malhotra,Female,26,Working Professional,Digital Media & Accountancy,Advance,null,null,West,Fazilka,Punjab,India,Sukhjeet Kaur,2025-08-12,2025-08-08,Quarter 2,Email Marketing,No Discount,12000
+1179,Japneet Kaur,Female,40,Working Professional,Coding,null,null,Beginners,East,Mohali,Punjab,India,Sukhjeet Kaur,2025-08-12,2025-08-08,Quarter 2,Organic Search ,No Discount,8500
+1180,Prerna Tandon,Female,36,Working Professional,Drafting & Designing,null,null,Beginners,East,Hoshiarpur,Punjab,India,Sukhjeet Kaur,2025-08-12,2025-08-08,Quarter 2,Social Media,No Discount,9500
+1181,Mandeep Kaur,Female,21,Student,MechTech Design,null,null,Beginners,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2025-08-13,2025-08-09,Quarter 2,Organic Search ,50%,9000
+1182,Nisha Mehra,Female,40,Working Professional,Business Essentials,null,Elite,null,South,Sangrur,Punjab,India,Sukhjeet Kaur,2025-08-13,2025-08-09,Quarter 2,Referral,No Discount,16500
+1183,Mehar Kaur,Female,33,Working Professional,Civil,Advance,null,null,South,Mansa,Punjab,India,Sukhjeet Kaur,2025-08-13,2025-08-09,Quarter 2,Email Marketing,No Discount,14000
+1184,Fateh Singh,Male,37,Working Professional,Computer Fundamentals,null,null,Beginners,North,Amritsar,Punjab,India,Sukhjeet Kaur,2025-08-14,2025-08-10,Quarter 2,Organic Search ,No Discount,6500
+1185,Devender Singh,Male,25,Working Professional,Computer Fundamentals,null,null,Beginners,West,Fazilka,Punjab,India,Sukhjeet Kaur,2025-08-16,2025-08-12,Quarter 2,Organic Search ,No Discount,6500
+1186,Harmanpreet Kaur,Female,25,Working Professional,Computer Fundamentals,null,null,Beginners,East,Mohali,Punjab,India,Sukhjeet Kaur,2025-08-18,2025-08-14,Quarter 2,Referral,No Discount,6500
+1187,Birinder Singh,Male,38,Working Professional,Civil,null,Elite,null,West,Sri Muktsar Sahib,Punjab,India,Sukhjeet Kaur,2025-08-19,2025-08-15,Quarter 2,Social Media,No Discount,19000
+1188,Barkha Gupta,Female,35,Working Professional,Coding/Programming,null,Elite,null,West,Fazilka,Punjab,India,Sukhjeet Kaur,2025-08-19,2025-08-15,Quarter 2,Direct Inquiry,No Discount,18500
+1189,Amarpreet Singh,Male,18,Student,Civil,Advance,null,null,South,Sangrur,Punjab,India,Sukhjeet Kaur,2025-08-20,2025-08-16,Quarter 2,Referral,50%,14000
+1190,Muskan Aggarwal,Female,22,Student,Civil,null,Elite,null,West,Fazilka,Punjab,India,Sukhjeet Kaur,2025-08-20,2025-08-16,Quarter 2,Organic Search ,50%,19000
+1191,Harcharan Kaur,Female,38,Working Professional,Drafting & Designing,null,null,Beginners,South,Patiala,Punjab,India,Sukhjeet Kaur,2025-08-21,2025-08-17,Quarter 2,Email Marketing,No Discount,9500
+1192,Kajal Mehra,Female,29,Working Professional,Self Esteem Workshop,Advance,null,null,West,Fazilka,Punjab,India,Sukhjeet Kaur,2025-08-21,2025-08-17,Quarter 2,Social Media,No Discount,10500
+1193,Aarav Tandon,Male,36,Working Professional,Drafting & Designing,null,null,Beginners,South,Barnala,Punjab,India,Sukhjeet Kaur,2025-08-25,2025-08-21,Quarter 2,Social Media,No Discount,9500
+1194,Payal Chopra,Female,35,Working Professional,Drafting & Designing,null,null,Beginners,West,Fazilka,Punjab,India,Sukhjeet Kaur,2025-08-25,2025-08-21,Quarter 2,Organic Search ,No Discount,9500
+1195,Jaspreet Kaur,Female,16,Student,Mechanical,null,Elite,null,South,Sangrur,Punjab,India,Sukhjeet Kaur,2025-08-27,2025-08-23,Quarter 2,Referral,50%,19000
+1196,Pooja Aggarwal,Female,38,Working Professional,Civil,Advance,null,null,North,Amritsar,Punjab,India,Sukhjeet Kaur,2025-08-27,2025-08-23,Quarter 2,Email Marketing,No Discount,14000
+1197,Basant Singh,Male,26,Working Professional,Civil,null,Elite,null,East,Phagwara,Punjab,India,Sukhjeet Kaur,2025-08-28,2025-08-24,Quarter 2,Social Media,No Discount,19000
+1198,Bhuvnesh Tandon,Male,20,Student,Digital Content Creation,null,Elite,null,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2025-08-29,2025-08-25,Quarter 2,Referral,50%,17500
+1199,Armanpreet Singh,Male,16,Student,Mechanical,Advance,null,null,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2025-08-29,2025-08-25,Quarter 2,Organic Search ,50%,14000
+1200,Khushi Mehra,Female,35,Working Professional,Coding,null,null,Beginners,West,Fazilka,Punjab,India,Sukhjeet Kaur,2025-08-30,2025-08-26,Quarter 2,Social Media,No Discount,8500
+1201,Ajit Singh,Male,15,Student,MechTech Design,null,null,Beginners,East,Phagwara,Punjab,India,Sukhjeet Kaur,2025-08-30,2025-08-26,Quarter 2,Organic Search ,50%,9000
+1202,Boota Singh,Male,26,Working Professional,Digital Media & Accountancy,Advance,null,null,West,Moga,Punjab,India,Sukhjeet Kaur,2025-08-30,2025-08-26,Quarter 2,Organic Search ,No Discount,12000
+1203,Bishan Singh,Male,40,Working Professional,Digital Literacy,null,null,Beginners,South,Barnala,Punjab,India,Sukhjeet Kaur,2025-08-31,2025-08-27,Quarter 2,Referral,No Discount,5000
+1204,Vivek Khanna,Male,36,Working Professional,Digital Media & Accountancy,Advance,null,null,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2025-09-01,2025-08-28,Quarter 2,Organic Search ,No Discount,12000
+1205,Daljeet Kaur,Female,26,Working Professional,Digital Media & Accountancy,Advance,null,null,West,Sri Muktsar Sahib,Punjab,India,Sukhjeet Kaur,2025-09-01,2025-08-28,Quarter 2,Organic Search ,No Discount,12000
+1206,Jyoti Khanna,Female,39,Working Professional,Business Essentials,null,Elite,null,North,Amritsar,Punjab,India,Sukhjeet Kaur,2025-09-01,2025-08-28,Quarter 2,Referral,No Discount,16500
+1207,Livleen Kaur,Female,31,Working Professional,Self Esteem Workshop,Advance,null,null,East,Rupnagar,Punjab,India,Sukhjeet Kaur,2025-09-02,2025-08-29,Quarter 2,Organic Search ,No Discount,10500
+1208,Bakshi Singh,Male,24,Student,Mechanical,null,Elite,null,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2025-09-02,2025-08-29,Quarter 2,Organic Search ,No Discount,19000
+1209,Swati Khanna,Female,30,Working Professional,Computer Fundamentals,null,null,Beginners,West,Firozpur,Punjab,India,Sukhjeet Kaur,2025-09-03,2025-08-30,Quarter 2,Organic Search ,No Discount,6500
+1210,Mansha Tandon,Female,29,Working Professional,Coding,null,null,Beginners,West,Sri Muktsar Sahib,Punjab,India,Sukhjeet Kaur,2025-09-03,2025-08-30,Quarter 2,Referral,No Discount,8500
+1211,Priya Mehra,Female,29,Working Professional,MechTech Design,null,null,Beginners,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-09-04,2025-08-31,Quarter 2,Direct Inquiry,No Discount,9000
+1212,Gurjit Kaur,Female,33,Working Professional,Digital Literacy,null,null,Beginners,West,Fazilka,Punjab,India,Amandeep Kaur,2025-09-05,2025-09-01,Quarter 2,Direct Inquiry,No Discount,5000
+1213,Jashandeep Kaur,Female,26,Working Professional,Digital Content Creation,null,Elite,null,West,Sri Muktsar Sahib,Punjab,India,Amandeep Kaur,2025-09-06,2025-09-02,Quarter 2,Referral,No Discount,17500
+1214,Sneha Joshi,Female,37,Working Professional,MechTech Design,null,null,Beginners,South,Mansa,Punjab,India,Amandeep Kaur,2025-09-08,2025-09-04,Quarter 2,Referral,No Discount,9000
+1215,Dalbir Singh,Male,34,Working Professional,Self Esteem Workshop,Advance,null,null,West,Tarn Taran,Punjab,India,Amandeep Kaur,2025-09-08,2025-09-04,Quarter 2,Organic Search ,No Discount,10500
+1216,Agamjot Kaur,Female,39,Working Professional,Coding,Advance,null,null,North,Batala,Punjab,India,Amandeep Kaur,2025-09-08,2025-09-04,Quarter 2,Social Media,No Discount,13500
+1217,Bagga Singh,Male,17,Student,Civil,Advance,null,null,North,Amritsar,Punjab,India,Amandeep Kaur,2025-09-09,2025-09-05,Quarter 2,Organic Search ,50%,14000
+1218,Amritpal Singh,Male,19,Student,Digital Content Creation,null,Elite,null,South,Barnala,Punjab,India,Sukhjeet Kaur,2025-09-11,2025-09-07,Quarter 2,Organic Search ,50%,17500
+1219,Navdeep Kaur,Female,33,Working Professional,Digital Literacy,null,null,Beginners,South,Sangrur,Punjab,India,Sukhjeet Kaur,2025-09-11,2025-09-07,Quarter 2,Organic Search ,No Discount,5000
+1220,Manveen Kaur,Female,21,Student,Digital Literacy,null,null,Beginners,North,Gurdaspur,Punjab,India,Sukhjeet Kaur,2025-09-12,2025-09-08,Quarter 2,Email Marketing,50%,5000
+1221,Parul Tandon,Female,35,Working Professional,MechTech Design,null,null,Beginners,East,Jalandhar,Punjab,India,Sukhjeet Kaur,2025-09-12,2025-09-08,Quarter 2,Organic Search ,No Discount,9000
+1222,Dalip Singh,Male,23,Student,Coding/Programming,null,Elite,null,East,Jalandhar,Punjab,India,Sukhjeet Kaur,2025-09-15,2025-09-11,Quarter 2,Email Marketing,No Discount,18500
+1223,Bhavya Verma,Female,21,Student,Civil,Advance,null,null,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2025-09-15,2025-09-11,Quarter 2,Social Media,50%,14000
+1224,Mansha Arora,Female,32,Working Professional,Civil,Advance,null,null,East,Rupnagar,Punjab,India,Sukhjeet Kaur,2025-09-15,2025-09-11,Quarter 2,Social Media,No Discount,14000
+1225,Amarpreet Kaur,Female,18,Student,Drafting & Designing,null,null,Beginners,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-09-15,2025-09-11,Quarter 2,Social Media,50%,9500
+1226,Binder Singh,Male,39,Working Professional,Digital Media & Accountancy,Advance,null,null,North,Amritsar,Punjab,India,Sukhjeet Kaur,2025-09-16,2025-09-12,Quarter 2,Direct Inquiry,No Discount,12000
+1227,Jagdish Kaur,Female,28,Working Professional,Civil,Advance,null,null,West,Sri Muktsar Sahib,Punjab,India,Sukhjeet Kaur,2025-09-16,2025-09-12,Quarter 2,Organic Search ,No Discount,14000
+1228,Harleen Kaur,Female,32,Working Professional,Mechanical,null,Elite,null,South,Sangrur,Punjab,India,Sukhjeet Kaur,2025-09-16,2025-09-12,Quarter 2,Organic Search ,No Discount,19000
+1229,Danveer Kaur,Female,40,Working Professional,Business Essentials,null,Elite,null,South,Barnala,Punjab,India,Amandeep Kaur,2025-09-17,2025-09-13,Quarter 2,Social Media,No Discount,16500
+1230,Dilsher Singh,Male,23,Student,Business Essentials,null,Elite,null,North,Amritsar,Punjab,India,Amandeep Kaur,2025-09-17,2025-09-13,Quarter 2,Social Media,No Discount,16500
+1231,Palak Sethi,Female,40,Working Professional,Business Essentials,null,Elite,null,North,Gurdaspur,Punjab,India,Amandeep Kaur,2025-09-19,2025-09-15,Quarter 2,Organic Search ,No Discount,16500
+1232,Aditya Malhotra,Male,35,Working Professional,Drafting & Designing,null,null,Beginners,South,Barnala,Punjab,India,Amandeep Kaur,2025-09-19,2025-09-15,Quarter 2,Direct Inquiry,No Discount,9500
+1233,Tamanna Mehra,Female,16,Student,Digital Content Creation,null,Elite,null,West,Firozpur,Punjab,India,Amandeep Kaur,2025-09-19,2025-09-15,Quarter 2,Organic Search ,50%,17500
+1234,Chhavi Chopra,Female,34,Working Professional,Self Esteem Workshop,Advance,null,null,South,Bathinda,Punjab,India,Amandeep Kaur,2025-09-19,2025-09-15,Quarter 2,Email Marketing,No Discount,10500
+1235,Tanya Bansal,Female,29,Working Professional,MechTech Design,null,null,Beginners,North,Gurdaspur,Punjab,India,Sukhjeet Kaur,2025-09-21,2025-09-17,Quarter 2,Social Media,No Discount,9000
+1236,Vanshika Grover,Female,21,Student,Self Esteem Workshop,Advance,null,null,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2025-09-21,2025-09-17,Quarter 2,Organic Search ,50%,10500
+1237,Rohan Malhotra,Male,26,Working Professional,Self Esteem Workshop,Advance,null,null,North,Amritsar,Punjab,India,Sukhjeet Kaur,2025-09-21,2025-09-17,Quarter 2,Social Media,No Discount,10500
+1238,Aanya Joshi,Female,22,Student,Mechanical,Advance,null,null,West,Firozpur,Punjab,India,Sukhjeet Kaur,2025-09-22,2025-09-18,Quarter 2,Referral,50%,14000
+1239,Harsharan Kaur,Female,29,Working Professional,Civil,null,Elite,null,South,Barnala,Punjab,India,Sukhjeet Kaur,2025-09-23,2025-09-19,Quarter 2,Direct Inquiry,No Discount,19000
+1240,Maninder Kaur,Female,21,Student,Coding/Programming,null,Elite,null,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-09-26,2025-09-22,Quarter 2,Organic Search ,50%,18500
+1241,Kriti Malhotra,Female,34,Working Professional,Coding,null,null,Beginners,North,Gurdaspur,Punjab,India,Sukhjeet Kaur,2025-09-28,2025-09-24,Quarter 2,Organic Search ,No Discount,8500
+1242,Palak Sood,Female,29,Working Professional,Drafting & Designing,null,null,Beginners,East,Rupnagar,Punjab,India,Sukhjeet Kaur,2025-09-28,2025-09-24,Quarter 2,Social Media,No Discount,9500
+1243,Manjeet Kaur,Female,25,Working Professional,Business Essentials,null,Elite,null,East,Rupnagar,Punjab,India,Sukhjeet Kaur,2025-09-30,2025-09-26,Quarter 2,Organic Search ,No Discount,16500
+1244,Gurnoor Kaur,Female,22,Student,Coding,Advance,null,null,East,Mohali,Punjab,India,Sukhjeet Kaur,2025-10-02,2025-09-28,Quarter 3,Social Media,50%,13500
+1245,Heera Kaur,Female,35,Working Professional,Digital Literacy,null,null,Beginners,West,Moga,Punjab,India,Sukhjeet Kaur,2025-10-02,2025-09-28,Quarter 3,Social Media,No Discount,5000
+1246,Amit Verma,Male,35,Working Professional,Coding/Programming,null,Elite,null,North,Batala,Punjab,India,Sukhjeet Kaur,2025-10-06,2025-10-02,Quarter 3,Referral,No Discount,18500
+1247,Gurveen Kaur,Female,23,Student,Mechanical,null,Elite,null,South,Bathinda,Punjab,India,Sukhjeet Kaur,2025-10-06,2025-10-02,Quarter 3,Email Marketing,No Discount,19000
+1248,Vaibhav Gupta,Male,21,Student,Civil,null,Elite,null,East,Rupnagar,Punjab,India,Sukhjeet Kaur,2025-10-06,2025-10-02,Quarter 3,Social Media,50%,19000
+1249,Joginder Kaur,Female,32,Working Professional,Self Esteem Workshop,Advance,null,null,West,Moga,Punjab,India,Sukhjeet Kaur,2025-10-06,2025-10-02,Quarter 3,Referral,No Discount,10500
+1250,Baljit Singh,Male,18,Student,Business Essentials,null,Elite,null,West,Sri Muktsar Sahib,Punjab,India,Sukhjeet Kaur,2025-10-06,2025-10-02,Quarter 3,Direct Inquiry,50%,16500
+1251,Inderpal Kaur,Female,39,Working Professional,Business Essentials,null,Elite,null,South,Sangrur,Punjab,India,Sukhjeet Kaur,2025-10-06,2025-10-02,Quarter 3,Referral,No Discount,16500
+1252,Malkiat Kaur,Female,28,Working Professional,Coding/Programming,null,Elite,null,East,Jalandhar,Punjab,India,Sukhjeet Kaur,2025-10-07,2025-10-03,Quarter 3,Direct Inquiry,No Discount,18500
+1253,Parul Chopra,Female,32,Working Professional,Business Essentials,null,Elite,null,South,Sangrur,Punjab,India,Sukhjeet Kaur,2025-10-09,2025-10-05,Quarter 3,Organic Search ,No Discount,16500
+1254,Bhupinder Singh,Male,40,Working Professional,Coding,null,null,Beginners,North,Amritsar,Punjab,India,Sukhjeet Kaur,2025-10-10,2025-10-06,Quarter 3,Referral,No Discount,8500
+1255,Sandeep Arora,Male,23,Student,Drafting & Designing,null,null,Beginners,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2025-10-11,2025-10-07,Quarter 3,Direct Inquiry,No Discount,9500
+1256,Radhika Mehra,Female,40,Working Professional,Coding/Programming,null,Elite,null,West,Moga,Punjab,India,Sukhjeet Kaur,2025-10-13,2025-10-09,Quarter 3,Social Media,No Discount,18500
+1257,Inderpreet Kaur,Female,35,Working Professional,Digital Media & Accountancy,Advance,null,null,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2025-10-13,2025-10-09,Quarter 3,Referral,No Discount,12000
+1258,Davinder Singh,Male,16,Student,Coding,null,null,Beginners,North,Batala,Punjab,India,Sukhjeet Kaur,2025-10-15,2025-10-11,Quarter 3,Direct Inquiry,50%,8500
+1259,Jivan Kaur,Female,34,Working Professional,Mechanical,null,Elite,null,West,Sri Muktsar Sahib,Punjab,India,Sukhjeet Kaur,2025-10-16,2025-10-12,Quarter 3,Organic Search ,No Discount,19000
+1260,Vanshika Malhotra,Female,29,Working Professional,Computer Fundamentals,null,null,Beginners,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-10-16,2025-10-12,Quarter 3,Email Marketing,No Discount,6500
+1261,Garima Mehra,Female,16,Student,Drafting & Designing,null,null,Beginners,North,Amritsar,Punjab,India,Sukhjeet Kaur,2025-10-18,2025-10-14,Quarter 3,Organic Search ,50%,9500
+1262,Tamanna Verma,Female,24,Student,Digital Media & Accountancy,Advance,null,null,West,Firozpur,Punjab,India,Sukhjeet Kaur,2025-10-18,2025-10-14,Quarter 3,Direct Inquiry,No Discount,12000
+1263,Barkha Sood,Female,18,Student,Coding/Programming,null,Elite,null,South,Bathinda,Punjab,India,Sukhjeet Kaur,2025-10-18,2025-10-14,Quarter 3,Social Media,50%,18500
+1264,Khushi Chopra,Female,28,Working Professional,Business Essentials,null,Elite,null,East,Mohali,Punjab,India,Sukhjeet Kaur,2025-10-19,2025-10-15,Quarter 3,Social Media,No Discount,16500
+1265,Anuragpreet Singh,Male,30,Working Professional,Mechanical,Advance,null,null,East,Jalandhar,Punjab,India,Sukhjeet Kaur,2025-10-19,2025-10-15,Quarter 3,Organic Search ,No Discount,14000
+1266,Rhythm Grover,Female,29,Working Professional,Digital Media & Accountancy,Advance,null,null,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-10-21,2025-10-17,Quarter 3,Organic Search ,No Discount,12000
+1267,Darbara Singh,Male,22,Student,Civil,null,Elite,null,North,Gurdaspur,Punjab,India,Sukhjeet Kaur,2025-10-22,2025-10-18,Quarter 3,Email Marketing,50%,19000
+1268,Ashish Malhotra,Male,28,Working Professional,Digital Content Creation,null,Elite,null,East,Hoshiarpur,Punjab,India,Sukhjeet Kaur,2025-10-22,2025-10-18,Quarter 3,Social Media,No Discount,17500
+1269,Kamaljeet Kaur,Female,37,Working Professional,Digital Media & Accountancy,Advance,null,null,South,Bathinda,Punjab,India,Sukhjeet Kaur,2025-10-22,2025-10-18,Quarter 3,Referral,No Discount,12000
+1270,Simran Sethi,Female,39,Working Professional,Drafting & Designing,null,null,Beginners,South,Bathinda,Punjab,India,Sukhjeet Kaur,2025-10-27,2025-10-23,Quarter 3,Referral,No Discount,9500
+1271,Bhavya Bansal,Female,22,Student,Drafting & Designing,null,null,Beginners,South,Mansa,Punjab,India,Sukhjeet Kaur,2025-10-28,2025-10-24,Quarter 3,Organic Search ,50%,9500
+1272,Vaibhav Sethi,Male,35,Working Professional,Mechanical,Advance,null,null,South,Patiala,Punjab,India,Sukhjeet Kaur,2025-10-28,2025-10-24,Quarter 3,Organic Search ,No Discount,14000
+1273,Riya Kapoor,Female,35,Working Professional,Drafting & Designing,null,null,Beginners,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-10-29,2025-10-25,Quarter 3,Referral,No Discount,9500
+1274,Khushpreet Kaur,Female,23,Student,Self Esteem Workshop,Advance,null,null,East,Hoshiarpur,Punjab,India,Sukhjeet Kaur,2025-10-29,2025-10-25,Quarter 3,Email Marketing,No Discount,10500
+1275,Reyansh Khanna,Male,21,Student,Drafting & Designing,null,null,Beginners,North,Gurdaspur,Punjab,India,Sukhjeet Kaur,2025-10-29,2025-10-25,Quarter 3,Email Marketing,50%,9500
+1276,Kriti Gupta,Female,32,Working Professional,Drafting & Designing,null,null,Beginners,East,Hoshiarpur,Punjab,India,Sukhjeet Kaur,2025-10-31,2025-10-27,Quarter 3,Organic Search ,No Discount,9500
+1277,Deepali Sharma,Female,18,Student,Coding/Programming,null,Elite,null,West,Fazilka,Punjab,India,Sukhjeet Kaur,2025-10-31,2025-10-27,Quarter 3,Direct Inquiry,50%,18500
+1278,Mohit Mehra,Male,39,Working Professional,Coding/Programming,null,Elite,null,East,Jalandhar,Punjab,India,Amandeep Kaur,2025-10-31,2025-10-27,Quarter 3,Social Media,No Discount,18500
+1279,Rhythm Mehra,Female,28,Working Professional,Coding,null,null,Beginners,East,Rupnagar,Punjab,India,Amandeep Kaur,2025-11-01,2025-10-28,Quarter 3,Referral,No Discount,8500
+1280,Arshdeep Singh,Male,32,Working Professional,Computer Fundamentals,null,null,Beginners,West,Fazilka,Punjab,India,Amandeep Kaur,2025-11-01,2025-10-28,Quarter 3,Social Media,No Discount,6500
+1281,Vijay Sharma,Male,40,Working Professional,Civil,null,Elite,null,West,Sri Muktsar Sahib,Punjab,India,Amandeep Kaur,2025-11-02,2025-10-29,Quarter 3,Direct Inquiry,No Discount,19000
+1282,Baldev Singh,Male,23,Student,Business Essentials,null,Elite,null,West,Tarn Taran,Punjab,India,Amandeep Kaur,2025-11-03,2025-10-30,Quarter 3,Email Marketing,No Discount,16500
+1283,Vineet Kapoor,Male,40,Working Professional,Business Essentials,null,Elite,null,West,Fazilka,Punjab,India,Amandeep Kaur,2025-11-04,2025-10-31,Quarter 3,Email Marketing,No Discount,16500
+1284,Jashanpreet Kaur,Female,35,Working Professional,Mechanical,Advance,null,null,East,Rupnagar,Punjab,India,Amandeep Kaur,2025-11-04,2025-10-31,Quarter 3,Organic Search ,No Discount,14000
+1285,Bhavya Malhotra,Female,16,Student,Drafting & Designing,null,null,Beginners,South,Patiala,Punjab,India,Amandeep Kaur,2025-11-04,2025-10-31,Quarter 3,Organic Search ,50%,9500
+1286,Diya Verma,Female,34,Working Professional,Civil,null,Elite,null,South,Barnala,Punjab,India,Amandeep Kaur,2025-11-06,2025-11-02,Quarter 3,Email Marketing,No Discount,19000
+1287,Baljinder Singh,Male,29,Working Professional,MechTech Design,null,null,Beginners,North,Pathankot,Punjab,India,Amandeep Kaur,2025-11-06,2025-11-02,Quarter 3,Organic Search ,No Discount,9000
+1288,Jyoti Malhotra,Female,28,Working Professional,Digital Media & Accountancy,Advance,null,null,East,Phagwara,Punjab,India,Amandeep Kaur,2025-11-08,2025-11-04,Quarter 3,Organic Search ,No Discount,12000
+1289,Ashish Gupta,Male,32,Working Professional,Digital Media & Accountancy,Advance,null,null,South,Sangrur,Punjab,India,Amandeep Kaur,2025-11-09,2025-11-05,Quarter 3,Referral,No Discount,12000
+1290,Badri Singh,Male,32,Working Professional,Coding/Programming,null,Elite,null,South,Patiala,Punjab,India,Amandeep Kaur,2025-11-10,2025-11-06,Quarter 3,Social Media,No Discount,18500
+1291,Mansha Khanna,Female,29,Working Professional,Civil,Advance,null,null,East,Mohali,Punjab,India,Amandeep Kaur,2025-11-10,2025-11-06,Quarter 3,Organic Search ,No Discount,14000
+1292,Charandeep Singh,Male,35,Working Professional,Digital Literacy,null,null,Beginners,East,Rupnagar,Punjab,India,Sukhjeet Kaur,2025-11-12,2025-11-08,Quarter 3,Direct Inquiry,No Discount,5000
+1293,Kajal Verma,Female,38,Working Professional,Coding/Programming,null,Elite,null,North,Batala,Punjab,India,Sukhjeet Kaur,2025-11-13,2025-11-09,Quarter 3,Social Media,No Discount,18500
+1294,Kulwinder Kaur,Female,40,Working Professional,Digital Literacy,null,null,Beginners,East,Phagwara,Punjab,India,Sukhjeet Kaur,2025-11-14,2025-11-10,Quarter 3,Organic Search ,No Discount,5000
+1295,Kiran Verma,Female,39,Working Professional,Coding,null,null,Beginners,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-11-14,2025-11-10,Quarter 3,Social Media,No Discount,8500
+1296,Barkha Mehra,Female,27,Working Professional,Mechanical,Advance,null,null,South,Bathinda,Punjab,India,Sukhjeet Kaur,2025-11-16,2025-11-12,Quarter 3,Social Media,No Discount,14000
+1297,Rhythm Sharma,Female,23,Student,Coding,Advance,null,null,East,Mohali,Punjab,India,Sukhjeet Kaur,2025-11-17,2025-11-13,Quarter 3,Social Media,No Discount,13500
+1298,Jaskaran Kaur,Female,29,Working Professional,Civil,Advance,null,null,South,Mansa,Punjab,India,Sukhjeet Kaur,2025-11-18,2025-11-14,Quarter 3,Social Media,No Discount,14000
+1299,Jaswant Kaur,Female,27,Working Professional,Digital Media & Accountancy,Advance,null,null,West,Sri Muktsar Sahib,Punjab,India,Sukhjeet Kaur,2025-11-19,2025-11-15,Quarter 3,Social Media,No Discount,12000
+1300,Anokh Singh,Male,15,Student,Civil,Advance,null,null,East,Jalandhar,Punjab,India,Sukhjeet Kaur,2025-11-19,2025-11-15,Quarter 3,Organic Search ,50%,14000
+1301,Chhavi Aggarwal,Female,16,Student,Civil,null,Elite,null,North,Batala,Punjab,India,Sukhjeet Kaur,2025-11-20,2025-11-16,Quarter 3,Email Marketing,50%,19000
+1302,Didar Singh,Male,24,Student,Coding,null,null,Beginners,South,Patiala,Punjab,India,Sukhjeet Kaur,2025-11-20,2025-11-16,Quarter 3,Referral,No Discount,8500
+1303,Akashdeep Singh,Male,18,Student,Computer Fundamentals,null,null,Beginners,South,Mansa,Punjab,India,Sukhjeet Kaur,2025-11-20,2025-11-16,Quarter 3,Referral,50%,6500
+1304,Karamjeet Kaur,Female,28,Working Professional,Computer Fundamentals,null,null,Beginners,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-11-20,2025-11-16,Quarter 3,Direct Inquiry,No Discount,6500
+1305,Sanya Sood,Female,30,Working Professional,Drafting & Designing,null,null,Beginners,West,Fazilka,Punjab,India,Sukhjeet Kaur,2025-11-21,2025-11-17,Quarter 3,Social Media,No Discount,9500
+1306,Gagandeep Singh,Male,29,Working Professional,Self Esteem Workshop,Advance,null,null,South,Bathinda,Punjab,India,Sukhjeet Kaur,2025-11-21,2025-11-17,Quarter 3,Email Marketing,No Discount,10500
+1307,Japji Kaur,Female,22,Student,Digital Literacy,null,null,Beginners,South,Mansa,Punjab,India,Sukhjeet Kaur,2025-11-22,2025-11-18,Quarter 3,Social Media,50%,5000
+1308,Balpreet Singh,Male,28,Working Professional,Mechanical,null,Elite,null,East,Hoshiarpur,Punjab,India,Sukhjeet Kaur,2025-11-23,2025-11-19,Quarter 3,Organic Search ,No Discount,19000
+1309,Kriti Joshi,Female,37,Working Professional,Mechanical,null,Elite,null,East,Jalandhar,Punjab,India,Sukhjeet Kaur,2025-11-25,2025-11-21,Quarter 3,Organic Search ,No Discount,19000
+1310,Kulbir Kaur,Female,39,Working Professional,MechTech Design,null,null,Beginners,South,Mansa,Punjab,India,Sukhjeet Kaur,2025-11-26,2025-11-22,Quarter 3,Organic Search ,No Discount,9000
+1311,Ekam Singh,Male,22,Student,Digital Literacy,null,null,Beginners,South,Barnala,Punjab,India,Sukhjeet Kaur,2025-11-29,2025-11-25,Quarter 3,Direct Inquiry,50%,5000
+1312,Dilpreet Kaur,Female,15,Student,Coding/Programming,null,Elite,null,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-11-30,2025-11-26,Quarter 3,Organic Search ,50%,18500
+1313,Vijay Tandon,Male,16,Student,Coding/Programming,null,Elite,null,East,Hoshiarpur,Punjab,India,Sukhjeet Kaur,2025-11-30,2025-11-26,Quarter 3,Direct Inquiry,50%,18500
+1314,Gurpinder Kaur,Female,24,Student,Coding,Advance,null,null,East,Phagwara,Punjab,India,Sukhjeet Kaur,2025-12-01,2025-11-27,Quarter 3,Organic Search ,No Discount,13500
+1315,Khushi Sharma,Female,35,Working Professional,Mechanical,null,Elite,null,South,Sangrur,Punjab,India,Sukhjeet Kaur,2025-12-05,2025-12-01,Quarter 3,Referral,No Discount,19000
+1316,Harnaam Kaur,Female,23,Student,Mechanical,Advance,null,null,East,Jalandhar,Punjab,India,Sukhjeet Kaur,2025-12-07,2025-12-03,Quarter 3,Direct Inquiry,No Discount,14000
+1317,Sanya Sharma,Female,21,Student,Coding,Advance,null,null,East,Phagwara,Punjab,India,Sukhjeet Kaur,2025-12-08,2025-12-04,Quarter 3,Referral,50%,13500
+1318,Garima Joshi,Female,32,Working Professional,Civil,Advance,null,null,West,Fazilka,Punjab,India,Sukhjeet Kaur,2025-12-09,2025-12-05,Quarter 3,Organic Search ,No Discount,14000
+1319,Navjot Kaur,Female,18,Student,Digital Media & Accountancy,Advance,null,null,East,Rupnagar,Punjab,India,Sukhjeet Kaur,2025-12-09,2025-12-05,Quarter 3,Direct Inquiry,50%,12000
+1320,Anhad Kaur,Female,39,Working Professional,Digital Media & Accountancy,Advance,null,null,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-12-09,2025-12-05,Quarter 3,Social Media,No Discount,12000
+1321,Dalbir Kaur,Female,28,Working Professional,MechTech Design,null,null,Beginners,East,Mohali,Punjab,India,Sukhjeet Kaur,2025-12-10,2025-12-06,Quarter 3,Referral,No Discount,9000
+1322,Bhupinder Kaur,Female,32,Working Professional,Coding/Programming,null,Elite,null,North,Amritsar,Punjab,India,Sukhjeet Kaur,2025-12-10,2025-12-06,Quarter 3,Organic Search ,No Discount,18500
+1323,Latika Gupta,Female,40,Working Professional,Mechanical,Advance,null,null,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2025-12-12,2025-12-08,Quarter 3,Social Media,No Discount,14000
+1324,Mahinder Kaur,Female,23,Student,Business Essentials,null,Elite,null,North,Batala,Punjab,India,Sukhjeet Kaur,2025-12-13,2025-12-09,Quarter 3,Organic Search ,No Discount,16500
+1325,Daya Singh,Male,40,Working Professional,Civil,null,Elite,null,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2025-12-13,2025-12-09,Quarter 3,Organic Search ,No Discount,19000
+1326,Bhuvnesh Chopra,Male,35,Working Professional,Self Esteem Workshop,Advance,null,null,East,Mohali,Punjab,India,Sukhjeet Kaur,2025-12-14,2025-12-10,Quarter 3,Organic Search ,No Discount,10500
+1327,Kajal Gupta,Female,16,Student,MechTech Design,null,null,Beginners,South,Barnala,Punjab,India,Sukhjeet Kaur,2025-12-15,2025-12-11,Quarter 3,Referral,50%,9000
+1328,Inderjeet Kaur,Female,34,Working Professional,Coding,Advance,null,null,East,Mohali,Punjab,India,Sukhjeet Kaur,2025-12-15,2025-12-11,Quarter 3,Organic Search ,No Discount,13500
+1329,Gian Kaur,Female,29,Working Professional,Computer Fundamentals,null,null,Beginners,North,Batala,Punjab,India,Sukhjeet Kaur,2025-12-17,2025-12-13,Quarter 3,Email Marketing,No Discount,6500
+1330,Vanshika Sharma,Female,33,Working Professional,Coding/Programming,null,Elite,null,West,Fazilka,Punjab,India,Sukhjeet Kaur,2025-12-20,2025-12-16,Quarter 3,Organic Search ,No Discount,18500
+1331,Madhav Arora,Male,37,Working Professional,Computer Fundamentals,null,null,Beginners,South,Sangrur,Punjab,India,Sukhjeet Kaur,2025-12-21,2025-12-17,Quarter 3,Direct Inquiry,No Discount,6500
+1332,Bikramjit Singh,Male,25,Working Professional,MechTech Design,null,null,Beginners,South,Barnala,Punjab,India,Sukhjeet Kaur,2025-12-23,2025-12-19,Quarter 3,Direct Inquiry,No Discount,9000
+1333,Priya Verma,Female,25,Working Professional,MechTech Design,null,null,Beginners,North,Gurdaspur,Punjab,India,Sukhjeet Kaur,2025-12-24,2025-12-20,Quarter 3,Referral,No Discount,9000
+1334,Deepinder Kaur,Female,38,Working Professional,Civil,null,Elite,null,North,Pathankot,Punjab,India,Sukhjeet Kaur,2025-12-25,2025-12-21,Quarter 3,Direct Inquiry,No Discount,19000
+1335,Charanjit Singh,Male,35,Working Professional,Coding/Programming,null,Elite,null,West,Firozpur,Punjab,India,Sukhjeet Kaur,2025-12-26,2025-12-22,Quarter 3,Direct Inquiry,No Discount,18500
+1336,Kavya Bansal,Female,18,Student,Drafting & Designing,null,null,Beginners,South,Bathinda,Punjab,India,Sukhjeet Kaur,2025-12-26,2025-12-22,Quarter 3,Referral,50%,9500
+1337,Yukta Malhotra,Female,22,Student,Digital Literacy,null,null,Beginners,North,Amritsar,Punjab,India,Sukhjeet Kaur,2025-12-27,2025-12-23,Quarter 3,Organic Search ,50%,5000
+1338,Prisha Aggarwal,Female,38,Working Professional,Self Esteem Workshop,Advance,null,null,North,Batala,Punjab,India,Sukhjeet Kaur,2025-12-27,2025-12-23,Quarter 3,Email Marketing,No Discount,10500
+1339,Gaganpreet Singh,Male,29,Working Professional,Coding,null,null,Beginners,West,Firozpur,Punjab,India,Sukhjeet Kaur,2025-12-28,2025-12-24,Quarter 3,Direct Inquiry,No Discount,8500
+1340,Kiranjot Kaur,Female,36,Working Professional,Mechanical,Advance,null,null,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2025-12-28,2025-12-24,Quarter 3,Social Media,No Discount,14000
+1341,Aditi Verma,Female,35,Working Professional,Coding,null,null,Beginners,North,Gurdaspur,Punjab,India,Sukhjeet Kaur,2025-12-30,2025-12-26,Quarter 3,Social Media,No Discount,8500
+1342,Gautam Tandon,Male,16,Student,Mechanical,Advance,null,null,East,Mohali,Punjab,India,Sukhjeet Kaur,2025-12-31,2025-12-27,Quarter 3,Email Marketing,50%,14000
+1343,Ishmeet Kaur,Female,38,Working Professional,Business Essentials,null,Elite,null,West,Fazilka,Punjab,India,Sukhjeet Kaur,2026-01-01,2025-12-28,Quarter 4,Email Marketing,No Discount,16500
+1344,Yukta Sharma,Female,26,Working Professional,Coding,null,null,Beginners,East,Phagwara,Punjab,India,Sukhjeet Kaur,2026-01-01,2025-12-28,Quarter 4,Organic Search ,No Discount,8500
+1345,Hemant Kapoor,Male,20,Student,MechTech Design,null,null,Beginners,East,Mohali,Punjab,India,Sukhjeet Kaur,2026-01-02,2025-12-29,Quarter 4,Organic Search ,50%,9000
+1346,Nidhi Khanna,Female,16,Student,MechTech Design,null,null,Beginners,North,Pathankot,Punjab,India,Sukhjeet Kaur,2026-01-04,2025-12-31,Quarter 4,Email Marketing,50%,9000
+1347,Aditi Aggarwal,Female,35,Working Professional,Computer Fundamentals,null,null,Beginners,South,Patiala,Punjab,India,Sukhjeet Kaur,2026-01-05,2026-01-01,Quarter 4,Social Media,No Discount,6500
+1348,Inayat Kaur,Female,15,Student,Mechanical,Advance,null,null,North,Pathankot,Punjab,India,Sukhjeet Kaur,2026-01-06,2026-01-02,Quarter 4,Direct Inquiry,50%,14000
+1349,Khushi Arora,Female,26,Working Professional,Coding,null,null,Beginners,South,Patiala,Punjab,India,Sukhjeet Kaur,2026-01-07,2026-01-03,Quarter 4,Referral,No Discount,8500
+1350,Barkha Bansal,Female,40,Working Professional,Mechanical,null,Elite,null,South,Patiala,Punjab,India,Sukhjeet Kaur,2026-01-07,2026-01-03,Quarter 4,Direct Inquiry,No Discount,19000
+1351,Gurman Kaur,Female,36,Working Professional,Civil,null,Elite,null,South,Barnala,Punjab,India,Sukhjeet Kaur,2026-01-08,2026-01-04,Quarter 4,Social Media,No Discount,19000
+1352,Ekamjot Kaur,Female,21,Student,Digital Literacy,null,null,Beginners,West,Fazilka,Punjab,India,Sukhjeet Kaur,2026-01-09,2026-01-05,Quarter 4,Social Media,50%,5000
+1353,Chandan Kaur,Female,34,Working Professional,Civil,null,Elite,null,North,Amritsar,Punjab,India,Sukhjeet Kaur,2026-01-09,2026-01-05,Quarter 4,Organic Search ,No Discount,19000
+1354,Pooja Sethi,Female,29,Working Professional,Digital Literacy,null,null,Beginners,East,Mohali,Punjab,India,Sukhjeet Kaur,2026-01-10,2026-01-06,Quarter 4,Referral,No Discount,5000
+1355,Amarbir Singh,Male,25,Working Professional,Coding,null,null,Beginners,South,Barnala,Punjab,India,Sukhjeet Kaur,2026-01-10,2026-01-06,Quarter 4,Email Marketing,No Discount,8500
+1356,Aanya Aggarwal,Female,22,Student,Mechanical,null,Elite,null,East,Jalandhar,Punjab,India,Sukhjeet Kaur,2026-01-10,2026-01-06,Quarter 4,Referral,50%,19000
+1357,Kabir Gupta,Male,35,Working Professional,Drafting & Designing,null,null,Beginners,South,Sangrur,Punjab,India,Sukhjeet Kaur,2026-01-11,2026-01-07,Quarter 4,Organic Search ,No Discount,9500
+1358,Basant Kaur,Female,35,Working Professional,Civil,null,Elite,null,North,Gurdaspur,Punjab,India,Sukhjeet Kaur,2026-01-11,2026-01-07,Quarter 4,Referral,No Discount,19000
+1359,Chet Singh,Male,23,Student,Coding,Advance,null,null,North,Gurdaspur,Punjab,India,Sukhjeet Kaur,2026-01-12,2026-01-08,Quarter 4,Social Media,No Discount,13500
+1360,Riya Grover,Female,21,Student,MechTech Design,null,null,Beginners,West,Sri Muktsar Sahib,Punjab,India,Sukhjeet Kaur,2026-01-12,2026-01-08,Quarter 4,Social Media,50%,9000
+1361,Latika Arora,Female,32,Working Professional,Coding,Advance,null,null,South,Bathinda,Punjab,India,Sukhjeet Kaur,2026-01-12,2026-01-08,Quarter 4,Email Marketing,No Discount,13500
+1362,Bhavya Sharma,Female,18,Student,Civil,null,Elite,null,East,Hoshiarpur,Punjab,India,Amandeep Kaur,2026-01-13,2026-01-09,Quarter 4,Referral,50%,19000
+1363,Ridhi Mehra,Female,39,Working Professional,Self Esteem Workshop,Advance,null,null,East,Hoshiarpur,Punjab,India,Amandeep Kaur,2026-01-13,2026-01-09,Quarter 4,Email Marketing,No Discount,10500
+1364,Raghav Arora,Male,28,Working Professional,Digital Media & Accountancy,Advance,null,null,West,Tarn Taran,Punjab,India,Amandeep Kaur,2026-01-14,2026-01-10,Quarter 4,Organic Search ,No Discount,12000
+1365,Lakhwinder Kaur,Female,32,Working Professional,Civil,null,Elite,null,South,Mansa,Punjab,India,Amandeep Kaur,2026-01-14,2026-01-10,Quarter 4,Social Media,No Discount,19000
+1366,Gurmeet Kaur,Female,40,Working Professional,Digital Media & Accountancy,Advance,null,null,North,Pathankot,Punjab,India,Amandeep Kaur,2026-01-15,2026-01-11,Quarter 4,Referral,No Discount,12000
+1367,Kulwant Kaur,Female,23,Student,Civil,Advance,null,null,East,Hoshiarpur,Punjab,India,Amandeep Kaur,2026-01-16,2026-01-12,Quarter 4,Email Marketing,No Discount,14000
+1368,Khushdeep Kaur,Female,40,Working Professional,Coding/Programming,null,Elite,null,West,Tarn Taran,Punjab,India,Amandeep Kaur,2026-01-17,2026-01-13,Quarter 4,Organic Search ,No Discount,18500
+1369,Sahil Gupta,Male,35,Working Professional,Coding,Advance,null,null,South,Bathinda,Punjab,India,Amandeep Kaur,2026-01-17,2026-01-13,Quarter 4,Direct Inquiry,No Discount,13500
+1370,Amanat Kaur,Female,16,Student,Business Essentials,null,Elite,null,East,Hoshiarpur,Punjab,India,Amandeep Kaur,2026-01-18,2026-01-14,Quarter 4,Referral,50%,16500
+1371,Amandeep Singh,Male,34,Working Professional,Coding,Advance,null,null,West,Fazilka,Punjab,India,Amandeep Kaur,2026-01-18,2026-01-14,Quarter 4,Referral,No Discount,13500
+1372,Deepak Bansal,Male,29,Working Professional,Civil,null,Elite,null,West,Fazilka,Punjab,India,Amandeep Kaur,2026-01-18,2026-01-14,Quarter 4,Direct Inquiry,No Discount,19000
+1373,Gurnoor Kaur,Female,35,Working Professional,Mechanical,null,Elite,null,East,Jalandhar,Punjab,India,Amandeep Kaur,2026-01-19,2026-01-15,Quarter 4,Social Media,No Discount,19000
+1374,Barkha Arora,Female,23,Student,Digital Media & Accountancy,Advance,null,null,West,Fazilka,Punjab,India,Amandeep Kaur,2026-01-19,2026-01-15,Quarter 4,Email Marketing,No Discount,12000
+1375,Anoop Kaur,Female,21,Student,Coding,Advance,null,null,West,Firozpur,Punjab,India,Sukhjeet Kaur,2026-01-19,2026-01-15,Quarter 4,Organic Search ,50%,13500
+1376,Nanakpreet Kaur,Female,32,Working Professional,Digital Media & Accountancy,Advance,null,null,East,Hoshiarpur,Punjab,India,Sukhjeet Kaur,2026-01-21,2026-01-17,Quarter 4,Email Marketing,No Discount,12000
+1377,Davinder Kaur,Female,18,Student,Computer Fundamentals,null,null,Beginners,West,Moga,Punjab,India,Sukhjeet Kaur,2026-01-21,2026-01-17,Quarter 4,Email Marketing,50%,6500
+1378,Rohan Sethi,Male,39,Working Professional,Coding,null,null,Beginners,West,Tarn Taran,Punjab,India,Amandeep Kaur,2026-01-22,2026-01-18,Quarter 4,Direct Inquiry,No Discount,8500
+1379,Daksh Tandon,Male,28,Working Professional,Drafting & Designing,null,null,Beginners,South,Barnala,Punjab,India,Amandeep Kaur,2026-01-22,2026-01-18,Quarter 4,Email Marketing,No Discount,9500
+1380,Aanchal Mehra,Female,32,Working Professional,Business Essentials,null,Elite,null,West,Fazilka,Punjab,India,Sukhjeet Kaur,2026-01-22,2026-01-18,Quarter 4,Social Media,No Discount,16500
+1381,Diya Khanna,Female,40,Working Professional,Coding,Advance,null,null,South,Bathinda,Punjab,India,Sukhjeet Kaur,2026-01-23,2026-01-19,Quarter 4,Referral,No Discount,13500
+1382,Cheten Kapoor,Male,23,Student,Digital Content Creation,null,Elite,null,West,Moga,Punjab,India,Sukhjeet Kaur,2026-01-24,2026-01-20,Quarter 4,Social Media,No Discount,17500
+1383,Aarav Sethi,Male,40,Working Professional,Computer Fundamentals,null,null,Beginners,South,Mansa,Punjab,India,Sukhjeet Kaur,2026-01-24,2026-01-20,Quarter 4,Referral,No Discount,6500
+1384,Anshdeep Singh,Male,35,Working Professional,Digital Media & Accountancy,Advance,null,null,South,Barnala,Punjab,India,Sukhjeet Kaur,2026-01-24,2026-01-20,Quarter 4,Organic Search ,No Discount,12000
+1385,Garima Grover,Female,16,Student,Mechanical,null,Elite,null,West,Sri Muktsar Sahib,Punjab,India,Sukhjeet Kaur,2026-01-25,2026-01-21,Quarter 4,Social Media,50%,19000
+1386,Neha Verma,Female,21,Student,Self Esteem Workshop,Advance,null,null,East,Hoshiarpur,Punjab,India,Sukhjeet Kaur,2026-01-25,2026-01-21,Quarter 4,Social Media,50%,10500
+1387,Kriti Mehra,Female,32,Working Professional,Digital Content Creation,null,Elite,null,West,Firozpur,Punjab,India,Sukhjeet Kaur,2026-01-25,2026-01-21,Quarter 4,Organic Search ,No Discount,17500
+1388,Khushi Verma,Female,18,Student,Coding,Advance,null,null,South,Patiala,Punjab,India,Sukhjeet Kaur,2026-01-25,2026-01-21,Quarter 4,Social Media,50%,13500
+1389,Deepak Grover,Male,39,Working Professional,MechTech Design,null,null,Beginners,East,Phagwara,Punjab,India,Sukhjeet Kaur,2026-01-27,2026-01-23,Quarter 4,Email Marketing,No Discount,9000
+1390,Tanya Sethi,Female,28,Working Professional,Digital Literacy,null,null,Beginners,West,Firozpur,Punjab,India,Sukhjeet Kaur,2026-01-27,2026-01-23,Quarter 4,Referral,No Discount,5000
+1391,Vineet Grover,Male,32,Working Professional,Self Esteem Workshop,Advance,null,null,East,Jalandhar,Punjab,India,Sukhjeet Kaur,2026-01-28,2026-01-24,Quarter 4,Referral,No Discount,10500
+1392,Vivaan Mehra,Male,40,Working Professional,Coding/Programming,null,Elite,null,West,Moga,Punjab,India,Sukhjeet Kaur,2026-01-28,2026-01-24,Quarter 4,Organic Search ,No Discount,18500
+1393,Isha Sethi,Female,23,Student,Coding,null,null,Beginners,South,Sangrur,Punjab,India,Sukhjeet Kaur,2026-01-29,2026-01-25,Quarter 4,Social Media,No Discount,8500
+1394,Bakhtawar Singh,Male,40,Working Professional,Coding,null,null,Beginners,West,Fazilka,Punjab,India,Sukhjeet Kaur,2026-01-30,2026-01-26,Quarter 4,Organic Search ,No Discount,8500
+1395,Jyoti Gupta,Female,35,Working Professional,Coding,null,null,Beginners,South,Sangrur,Punjab,India,Sukhjeet Kaur,2026-01-31,2026-01-27,Quarter 4,Social Media,No Discount,8500
+1396,Bhavya Khanna,Female,16,Student,Mechanical,Advance,null,null,East,Rupnagar,Punjab,India,Sukhjeet Kaur,2026-01-31,2026-01-27,Quarter 4,Social Media,50%,14000
+1397,Ishita Khanna,Female,34,Working Professional,Civil,Advance,null,null,West,Firozpur,Punjab,India,Sukhjeet Kaur,2026-01-31,2026-01-27,Quarter 4,Email Marketing,No Discount,14000
+1398,Diljott Kaur,Female,29,Working Professional,Civil,null,Elite,null,South,Sangrur,Punjab,India,Amandeep Kaur,2026-02-01,2026-01-28,Quarter 4,Social Media,No Discount,19000
+1399,Kriti Sood,Female,35,Working Professional,Coding/Programming,null,Elite,null,South,Patiala,Punjab,India,Amandeep Kaur,2026-02-03,2026-01-30,Quarter 4,Social Media,No Discount,18500
+1400,Prerna Grover,Female,23,Student,Coding/Programming,null,Elite,null,West,Tarn Taran,Punjab,India,Amandeep Kaur,2026-02-04,2026-01-31,Quarter 4,Email Marketing,No Discount,18500
+1401,Parul Verma,Female,21,Student,Mechanical,Advance,null,null,West,Moga,Punjab,India,Amandeep Kaur,2026-02-06,2026-02-02,Quarter 4,Referral,50%,14000
+1402,Ananya Verma,Female,32,Working Professional,Mechanical,Advance,null,null,South,Barnala,Punjab,India,Amandeep Kaur,2026-02-06,2026-02-02,Quarter 4,Email Marketing,No Discount,14000
+1403,Jagmohan Kaur,Female,18,Student,Business Essentials,null,Elite,null,West,Sri Muktsar Sahib,Punjab,India,Amandeep Kaur,2026-02-06,2026-02-02,Quarter 4,Social Media,50%,16500
+1404,Gurbaksh Kaur,Female,39,Working Professional,Civil,null,Elite,null,West,Sri Muktsar Sahib,Punjab,India,Amandeep Kaur,2026-02-07,2026-02-03,Quarter 4,Organic Search ,No Discount,19000
+1405,Dilbagh Singh,Male,28,Working Professional,Civil,Advance,null,null,South,Sangrur,Punjab,India,Amandeep Kaur,2026-02-08,2026-02-04,Quarter 4,Organic Search ,No Discount,14000
+1406,Sukhmani Kaur,Female,32,Working Professional,Coding/Programming,null,Elite,null,North,Gurdaspur,Punjab,India,Amandeep Kaur,2026-02-08,2026-02-04,Quarter 4,Organic Search ,No Discount,18500
+1407,Bhuvnesh Mehra,Male,40,Working Professional,Computer Fundamentals,null,null,Beginners,West,Sri Muktsar Sahib,Punjab,India,Amandeep Kaur,2026-02-08,2026-02-04,Quarter 4,Social Media,No Discount,6500
+1408,Tushar Bansal,Male,23,Student,Digital Media & Accountancy,Advance,null,null,East,Jalandhar,Punjab,India,Sukhjeet Kaur,2026-02-09,2026-02-05,Quarter 4,Social Media,No Discount,12000
+1409,Gagandeep Kaur,Female,33,Working Professional,Coding/Programming,null,Elite,null,South,Sangrur,Punjab,India,Sukhjeet Kaur,2026-02-09,2026-02-05,Quarter 4,Email Marketing,No Discount,18500
+1410,Harjit Kaur,Female,37,Working Professional,Civil,Advance,null,null,West,Fazilka,Punjab,India,Sukhjeet Kaur,2026-02-09,2026-02-05,Quarter 4,Social Media,No Discount,14000
+1411,Aditi Arora,Female,25,Working Professional,Computer Fundamentals,null,null,Beginners,East,Rupnagar,Punjab,India,Sukhjeet Kaur,2026-02-09,2026-02-05,Quarter 4,Organic Search ,No Discount,6500
+1412,Charanjit Kaur,Female,25,Working Professional,Digital Media & Accountancy,Advance,null,null,North,Gurdaspur,Punjab,India,Sukhjeet Kaur,2026-02-11,2026-02-07,Quarter 4,Organic Search ,No Discount,12000
+1413,Neha Sood,Female,38,Working Professional,Self Esteem Workshop,Advance,null,null,East,Hoshiarpur,Punjab,India,Sukhjeet Kaur,2026-02-12,2026-02-08,Quarter 4,Referral,No Discount,10500
+1414,Bimaljit Singh,Male,35,Working Professional,Civil,Advance,null,null,East,Phagwara,Punjab,India,Sukhjeet Kaur,2026-02-13,2026-02-09,Quarter 4,Social Media,No Discount,14000
+1415,Hazoor Kaur,Female,18,Student,Digital Media & Accountancy,Advance,null,null,North,Pathankot,Punjab,India,Sukhjeet Kaur,2026-02-13,2026-02-09,Quarter 4,Organic Search ,50%,12000
+1416,Arjan Singh,Male,22,Student,MechTech Design,null,null,Beginners,North,Gurdaspur,Punjab,India,Sukhjeet Kaur,2026-02-13,2026-02-09,Quarter 4,Social Media,50%,9000
+1417,Sanjay Sethi,Male,38,Working Professional,Coding,Advance,null,null,South,Bathinda,Punjab,India,Sukhjeet Kaur,2026-02-14,2026-02-10,Quarter 4,Social Media,No Discount,13500
+1418,Gulaab Kaur,Female,29,Working Professional,Mechanical,Advance,null,null,East,Mohali,Punjab,India,Sukhjeet Kaur,2026-02-14,2026-02-10,Quarter 4,Referral,No Discount,14000
+1419,Bachittar Singh,Male,36,Working Professional,Business Essentials,null,Elite,null,South,Barnala,Punjab,India,Sukhjeet Kaur,2026-02-14,2026-02-10,Quarter 4,Organic Search ,No Discount,16500
+1420,Tanya Kapoor,Female,35,Working Professional,Self Esteem Workshop,Advance,null,null,East,Hoshiarpur,Punjab,India,Sukhjeet Kaur,2026-02-15,2026-02-11,Quarter 4,Email Marketing,No Discount,10500
+1421,Chhavi Tandon,Female,16,Student,Coding/Programming,null,Elite,null,South,Sangrur,Punjab,India,Sukhjeet Kaur,2026-02-15,2026-02-11,Quarter 4,Social Media,50%,18500
+1422,Anmol Kaur,Female,38,Working Professional,MechTech Design,null,null,Beginners,West,Firozpur,Punjab,India,Sukhjeet Kaur,2026-02-15,2026-02-11,Quarter 4,Organic Search ,No Discount,9000
+1423,Aanchal Grover,Female,26,Working Professional,Digital Literacy,null,null,Beginners,West,Fazilka,Punjab,India,Sukhjeet Kaur,2026-02-16,2026-02-12,Quarter 4,Referral,No Discount,5000
+1424,Harpreet Kaur,Female,20,Student,Computer Fundamentals,null,null,Beginners,North,Batala,Punjab,India,Amandeep Kaur,2026-02-16,2026-02-12,Quarter 4,Social Media,50%,6500
+1425,Dharam Singh,Male,16,Student,MechTech Design,null,null,Beginners,East,Phagwara,Punjab,India,Amandeep Kaur,2026-02-16,2026-02-12,Quarter 4,Social Media,50%,9000
+1426,Khushi Bansal,Female,35,Working Professional,Mechanical,null,Elite,null,West,Sri Muktsar Sahib,Punjab,India,Amandeep Kaur,2026-02-16,2026-02-12,Quarter 4,Referral,No Discount,19000
+1427,Divya Sharma,Female,15,Student,Coding,Advance,null,null,North,Amritsar,Punjab,India,Amandeep Kaur,2026-02-16,2026-02-12,Quarter 4,Referral,50%,13500
+1428,Amarjeet Singh,Male,26,Working Professional,Computer Fundamentals,null,null,Beginners,West,Moga,Punjab,India,Amandeep Kaur,2026-02-17,2026-02-13,Quarter 4,Referral,No Discount,6500
+1429,Utkarsh Tandon,Male,40,Working Professional,Self Esteem Workshop,Advance,null,null,East,Phagwara,Punjab,India,Amandeep Kaur,2026-02-17,2026-02-13,Quarter 4,Organic Search ,No Discount,10500
+1430,Kuldeep Kaur,Female,36,Working Professional,Digital Content Creation,null,Elite,null,East,Jalandhar,Punjab,India,Amandeep Kaur,2026-02-17,2026-02-13,Quarter 4,Social Media,No Discount,17500
+1431,Muskan Kapoor,Female,28,Working Professional,Coding/Programming,null,Elite,null,East,Hoshiarpur,Punjab,India,Amandeep Kaur,2026-02-18,2026-02-14,Quarter 4,Referral,No Discount,18500
+1432,Piyush Grover,Male,32,Working Professional,Coding/Programming,null,Elite,null,North,Pathankot,Punjab,India,Amandeep Kaur,2026-02-18,2026-02-14,Quarter 4,Organic Search ,No Discount,18500
+1433,Kriti Khanna,Female,40,Working Professional,Coding,null,null,Beginners,North,Gurdaspur,Punjab,India,Amandeep Kaur,2026-02-18,2026-02-14,Quarter 4,Direct Inquiry,No Discount,8500
+1434,Riya Joshi,Female,35,Working Professional,Mechanical,Advance,null,null,East,Jalandhar,Punjab,India,Amandeep Kaur,2026-02-21,2026-02-17,Quarter 4,Direct Inquiry,No Discount,14000
+1435,Gurcharan Kaur,Female,23,Student,Self Esteem Workshop,Advance,null,null,North,Pathankot,Punjab,India,Amandeep Kaur,2026-02-21,2026-02-17,Quarter 4,Organic Search ,No Discount,10500
+1436,Bhagat Singh,Male,21,Student,Self Esteem Workshop,Advance,null,null,East,Phagwara,Punjab,India,Amandeep Kaur,2026-02-22,2026-02-18,Quarter 4,Social Media,50%,10500
+1437,Gaganpreet Kaur,Female,32,Working Professional,Business Essentials,null,Elite,null,East,Phagwara,Punjab,India,Amandeep Kaur,2026-02-25,2026-02-21,Quarter 4,Email Marketing,No Discount,16500
+1438,Kiran Gupta,Female,18,Student,Computer Fundamentals,null,null,Beginners,West,Sri Muktsar Sahib,Punjab,India,Amandeep Kaur,2026-02-26,2026-02-22,Quarter 4,Organic Search ,50%,6500
+1439,Divya Mehra,Female,39,Working Professional,Civil,null,Elite,null,North,Gurdaspur,Punjab,India,Amandeep Kaur,2026-02-27,2026-02-23,Quarter 4,Organic Search ,No Discount,19000
+1440,Ashish Verma,Male,28,Working Professional,Civil,null,Elite,null,South,Sangrur,Punjab,India,Amandeep Kaur,2026-02-28,2026-02-24,Quarter 4,Organic Search ,No Discount,19000
+1441,Tamanna Sethi,Female,32,Working Professional,Civil,Advance,null,null,East,Rupnagar,Punjab,India,Amandeep Kaur,2026-02-28,2026-02-24,Quarter 4,Organic Search ,No Discount,14000
+1442,Yukta Sethi,Female,40,Working Professional,Mechanical,null,Elite,null,West,Fazilka,Punjab,India,Amandeep Kaur,2026-02-28,2026-02-24,Quarter 4,Direct Inquiry,No Discount,19000
+1443,Gurjinder Kaur,Female,23,Student,Digital Media & Accountancy,Advance,null,null,East,Hoshiarpur,Punjab,India,Amandeep Kaur,2026-03-03,2026-02-27,Quarter 4,Email Marketing,No Discount,12000
+1444,Fatehbani Kaur,Female,40,Working Professional,Coding,null,null,Beginners,West,Moga,Punjab,India,Sukhjeet Kaur,2026-03-03,2026-02-27,Quarter 4,Direct Inquiry,No Discount,8500
+1445,Avtar Singh,Male,35,Working Professional,Mechanical,Advance,null,null,East,Hoshiarpur,Punjab,India,Sukhjeet Kaur,2026-03-03,2026-02-27,Quarter 4,Organic Search ,No Discount,14000
+1446,Shreya Malhotra,Female,16,Student,Drafting & Designing,null,null,Beginners,West,Firozpur,Punjab,India,Sukhjeet Kaur,2026-03-04,2026-02-28,Quarter 4,Organic Search ,50%,9500
+1447,Latika Grover,Female,34,Working Professional,Civil,Advance,null,null,East,Jalandhar,Punjab,India,Sukhjeet Kaur,2026-03-04,2026-02-28,Quarter 4,Referral,No Discount,14000
+1448,Baljinder Kaur,Female,29,Working Professional,Coding/Programming,null,Elite,null,South,Sangrur,Punjab,India,Sukhjeet Kaur,2026-03-07,2026-03-03,Quarter 4,Direct Inquiry,No Discount,18500
+1449,Shreya Khanna,Female,16,Student,Digital Content Creation,null,Elite,null,South,Bathinda,Punjab,India,Sukhjeet Kaur,2026-03-09,2026-03-05,Quarter 4,Social Media,50%,17500
+1450,Garima Malhotra,Female,34,Working Professional,MechTech Design,null,null,Beginners,North,Amritsar,Punjab,India,Sukhjeet Kaur,2026-03-09,2026-03-05,Quarter 4,Organic Search ,No Discount,9000
+1451,Mehak Sethi,Female,29,Working Professional,Coding,null,null,Beginners,West,Fazilka,Punjab,India,Sukhjeet Kaur,2026-03-10,2026-03-06,Quarter 4,Organic Search ,No Discount,8500
+1452,Hemant Khanna,Male,33,Working Professional,MechTech Design,null,null,Beginners,North,Gurdaspur,Punjab,India,Sukhjeet Kaur,2026-03-10,2026-03-06,Quarter 4,Social Media,No Discount,9000
+1453,Palak Mehra,Female,37,Working Professional,Digital Media & Accountancy,Advance,null,null,East,Phagwara,Punjab,India,Sukhjeet Kaur,2026-03-10,2026-03-06,Quarter 4,Organic Search ,No Discount,12000
+1454,Deepinder Singh,Male,25,Working Professional,Mechanical,Advance,null,null,East,Rupnagar,Punjab,India,Sukhjeet Kaur,2026-03-10,2026-03-06,Quarter 4,Organic Search ,No Discount,14000
+1455,Nidhi Tandon,Female,25,Working Professional,Computer Fundamentals,null,null,Beginners,West,Sri Muktsar Sahib,Punjab,India,Sukhjeet Kaur,2026-03-10,2026-03-06,Quarter 4,Referral,No Discount,6500
+1456,Aryan Aggarwal,Male,38,Working Professional,Coding/Programming,null,Elite,null,North,Batala,Punjab,India,Sukhjeet Kaur,2026-03-15,2026-03-11,Quarter 4,Organic Search ,No Discount,18500
+1457,Avneet Singh,Male,35,Working Professional,Mechanical,Advance,null,null,West,Sri Muktsar Sahib,Punjab,India,Sukhjeet Kaur,2026-03-15,2026-03-11,Quarter 4,Social Media,No Discount,14000
+1458,Drishti Sharma,Female,18,Student,Coding,Advance,null,null,South,Bathinda,Punjab,India,Sukhjeet Kaur,2026-03-17,2026-03-13,Quarter 4,Social Media,50%,13500
+1459,Rhythm Tandon,Female,22,Student,Mechanical,Advance,null,null,West,Moga,Punjab,India,Sukhjeet Kaur,2026-03-18,2026-03-14,Quarter 4,Referral,50%,14000
+1460,Manpreet Kaur,Female,38,Working Professional,Drafting & Designing,null,null,Beginners,North,Amritsar,Punjab,India,Sukhjeet Kaur,2026-03-19,2026-03-15,Quarter 4,Social Media,No Discount,9500
+1461,Kiranjot Kaur,Female,29,Working Professional,MechTech Design,null,null,Beginners,East,Rupnagar,Punjab,India,Sukhjeet Kaur,2026-03-19,2026-03-15,Quarter 4,Social Media,No Discount,9000
+1462,Manveer Kaur,Female,36,Working Professional,Drafting & Designing,null,null,Beginners,West,Firozpur,Punjab,India,Sukhjeet Kaur,2026-03-20,2026-03-16,Quarter 4,Direct Inquiry,No Discount,9500
+1463,Baninder Singh,Male,35,Working Professional,Digital Literacy,null,null,Beginners,South,Patiala,Punjab,India,Sukhjeet Kaur,2026-03-20,2026-03-16,Quarter 4,Referral,No Discount,5000
+1464,Iqbal Kaur,Female,16,Student,MechTech Design,null,null,Beginners,West,Firozpur,Punjab,India,Sukhjeet Kaur,2026-03-22,2026-03-18,Quarter 4,Organic Search ,50%,9000
+1465,Chanan Singh,Male,23,Student,Mechanical,null,Elite,null,West,Fazilka,Punjab,India,Sukhjeet Kaur,2026-03-23,2026-03-19,Quarter 4,Organic Search ,No Discount,19000
+1466,Harpal Kaur,Female,21,Student,Digital Content Creation,null,Elite,null,North,Batala,Punjab,India,Sukhjeet Kaur,2026-03-23,2026-03-19,Quarter 4,Referral,50%,17500
+1467,Vineet Tandon,Male,35,Working Professional,Computer Fundamentals,null,null,Beginners,East,Hoshiarpur,Punjab,India,Sukhjeet Kaur,2026-03-23,2026-03-19,Quarter 4,Referral,No Discount,6500
+1468,Amolak Singh,Male,23,Student,Civil,Advance,null,null,South,Bathinda,Punjab,India,Sukhjeet Kaur,2026-03-23,2026-03-19,Quarter 4,Social Media,No Discount,14000
+1469,Nidhi Gupta,Female,21,Student,Computer Fundamentals,null,null,Beginners,South,Bathinda,Punjab,India,Amandeep Kaur,2026-03-24,2026-03-20,Quarter 4,Email Marketing,50%,6500
+1470,Ashish Bansal,Male,32,Working Professional,Digital Content Creation,null,Elite,null,East,Mohali,Punjab,India,Amandeep Kaur,2026-03-27,2026-03-23,Quarter 4,Direct Inquiry,No Discount,17500
+1471,Jeevan Kaur,Female,18,Student,Business Essentials,null,Elite,null,South,Mansa,Punjab,India,Amandeep Kaur,2026-03-27,2026-03-23,Quarter 4,Direct Inquiry,50%,16500
+1472,Bhuvnesh Grover,Male,39,Working Professional,Coding,Advance,null,null,South,Sangrur,Punjab,India,Amandeep Kaur,2026-03-27,2026-03-23,Quarter 4,Direct Inquiry,No Discount,13500
+1473,Baani Kaur,Female,28,Working Professional,Civil,null,Elite,null,East,Rupnagar,Punjab,India,Amandeep Kaur,2026-03-28,2026-03-24,Quarter 4,Social Media,No Discount,19000
+1474,Latika Verma,Female,32,Working Professional,Coding,null,null,Beginners,East,Mohali,Punjab,India,Amandeep Kaur,2026-03-28,2026-03-24,Quarter 4,Referral,No Discount,8500
+1475,Harbaksh Kaur,Female,40,Working Professional,Civil,Advance,null,null,East,Phagwara,Punjab,India,Amandeep Kaur,2026-03-29,2026-03-25,Quarter 4,Organic Search ,No Discount,14000
+1476,Jagraj Kaur,Female,23,Student,Drafting & Designing,null,null,Beginners,North,Pathankot,Punjab,India,Amandeep Kaur,2026-03-29,2026-03-25,Quarter 4,Organic Search ,No Discount,9500
+1477,Shruti Gupta,Female,40,Working Professional,Coding,null,null,Beginners,South,Sangrur,Punjab,India,Sukhjeet Kaur,2026-03-30,2026-03-26,Quarter 4,Email Marketing,No Discount,8500
+1478,Baghel Singh,Male,35,Working Professional,Mechanical,Advance,null,null,North,Batala,Punjab,India,Sukhjeet Kaur,2026-03-31,2026-03-27,Quarter 4,Organic Search ,No Discount,14000
+1479,Sanjay Arora,Male,16,Student,Computer Fundamentals,null,null,Beginners,South,Barnala,Punjab,India,Sukhjeet Kaur,2026-03-31,2026-03-27,Quarter 4,Organic Search ,50%,6500
+1480,Jagdev Kaur,Female,34,Working Professional,Coding/Programming,null,Elite,null,West,Tarn Taran,Punjab,India,Sukhjeet Kaur,2026-03-31,2026-03-27,Quarter 4,Referral,No Discount,18500
